@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-10T20:52:09.926650+00:00",
+  "updatedAt": "2026-09-10T21:24:02.102670+00:00",
   "videos": [
+    {
+      "title": "T92 HMC WOT - 6105 Damage!",
+      "link": "https://www.youtube.com/shorts/xcXU2EdL5EE",
+      "videoId": "xcXU2EdL5EE",
+      "published": "2026-09-10T20:57:56+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/xcXU2EdL5EE/hqdefault.jpg"
+    },
     {
       "title": "FV4005 Stage II WOT - 12K Damage!",
       "link": "https://www.youtube.com/watch?v=NEKPE26R-DY",
@@ -77,13 +84,6 @@
       "videoId": "kEcen1U0ias",
       "published": "2026-09-05T19:19:49+00:00",
       "thumbnail": "https://i.ytimg.com/vi/kEcen1U0ias/hqdefault.jpg"
-    },
-    {
-      "title": "Grille 15 WOT - 12215 Damage!",
-      "link": "https://www.youtube.com/shorts/maAPVjYRWa0",
-      "videoId": "maAPVjYRWa0",
-      "published": "2026-08-19T13:43:30+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/maAPVjYRWa0/hqdefault.jpg"
     }
   ]
 }
