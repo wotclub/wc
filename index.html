@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="ru">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#050807">
+  <meta name="description" content="WOT CLUB — The Tankers Community. Лучшие реплеи, последние видео и ссылки на социальные сети канала.">
+  <meta property="og:title" content="WOT CLUB — The Tankers Community">
+  <meta property="og:description" content="The best replays. Последние видео и официальные ссылки WOT CLUB.">
+  <meta property="og:image" content="assets/banner.jpg">
+  <meta property="og:type" content="website">
+  <title>WOT CLUB — The Tankers Community</title>
+  <link rel="icon" href="assets/logo.jpg" type="image/jpeg">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="scanlines" aria-hidden="true"></div>
+  <header class="site-header">
+    <div class="container header-inner">
+      <a class="brand" href="#top" aria-label="WOT CLUB">
+        <img src="assets/logo.jpg" alt="WOT CLUB logo">
+        <div class="brand-copy"><strong>WOT CLUB</strong><span>THE TANKERS COMMUNITY</span></div>
+      </a>
+      <div class="lang-switcher" role="group" aria-label="Language">
+        <button data-lang="ru" class="lang-btn active">RU</button>
+        <button data-lang="uk" class="lang-btn">UA</button>
+        <button data-lang="en" class="lang-btn">EN</button>
+      </div>
+    </div>
+  </header>
+
+  <main id="top">
+    <section class="hero container">
+      <div class="hero-media">
+        <img src="assets/banner.jpg" alt="WOT CLUB banner">
+        <div class="hero-glow"></div>
+      </div>
+      <div class="hero-content">
+        <div class="eyebrow"><span></span><span data-i18n="eyebrow">THE TANKERS COMMUNITY</span></div>
+        <h1>WOT <em>CLUB</em></h1>
+        <p class="lead" data-i18n="heroText">Лучшие реплеи, танковые сражения и новые видео из мира World of Tanks.</p>
+        <div class="hero-actions">
+          <a class="btn btn-primary" data-link="youtube" href="#" target="_blank" rel="noopener"><span class="play">▶</span><span data-i18n="watchYoutube">Смотреть YouTube</span></a>
+          <a class="btn btn-ghost" href="#videos"><span data-i18n="latestVideos">Последние видео</span><span>↓</span></a>
+        </div>
+      </div>
+    </section>
+
+    <section class="container social-section" aria-labelledby="socialTitle">
+      <div class="section-head">
+        <div>
+          <div class="eyebrow"><span></span><span data-i18n="connect">CONNECT</span></div>
+          <h2 id="socialTitle" data-i18n="stayConnected">Будь с нами</h2>
+        </div>
+        <p data-i18n="socialIntro">Поддержи канал и следи за новыми публикациями на всех площадках.</p>
+      </div>
+      <div class="social-grid">
+        <a class="social-card support" data-link="support" href="#" target="_blank" rel="noopener"><span class="social-icon">♥</span><span><b data-i18n="support">Поддержка канала</b><small data-i18n="supportSub">Помочь развитию проекта</small></span><span class="arrow">↗</span></a>
+        <a class="social-card donate" data-link="donate" href="#" target="_blank" rel="noopener"><span class="social-icon">$</span><span><b data-i18n="donate">Донат</b><small data-i18n="donateSub">Поддержать автора</small></span><span class="arrow">↗</span></a>
+        <a class="social-card youtube" data-link="youtube" href="#" target="_blank" rel="noopener"><span class="social-icon">▶</span><span><b>YouTube</b><small data-i18n="youtubeSub">Последние видео</small></span><span class="arrow">↗</span></a>
+        <a class="social-card instagram" data-link="instagram" href="#" target="_blank" rel="noopener"><span class="social-icon">◎</span><span><b>Instagram</b><small data-i18n="instagramSub">Фото и новости</small></span><span class="arrow">↗</span></a>
+        <a class="social-card tiktok" data-link="tiktok" href="#" target="_blank" rel="noopener"><span class="social-icon">♪</span><span><b>TikTok</b><small data-i18n="tiktokSub">Короткие видео</small></span><span class="arrow">↗</span></a>
+        <a class="social-card facebook" data-link="facebook" href="#" target="_blank" rel="noopener"><span class="social-icon">f</span><span><b>Facebook</b><small data-i18n="facebookSub">Сообщество</small></span><span class="arrow">↗</span></a>
+      </div>
+    </section>
+
+    <section id="videos" class="container videos-section" aria-labelledby="videosTitle">
+      <div class="section-head">
+        <div>
+          <div class="eyebrow"><span></span><span data-i18n="rssEyebrow">YOUTUBE RSS</span></div>
+          <h2 id="videosTitle" data-i18n="latest">Последние видео</h2>
+        </div>
+        <a class="rss-link" data-link="youtube" href="#" target="_blank" rel="noopener"><span>RSS</span> <span data-i18n="openChannel">Открыть канал ↗</span></a>
+      </div>
+      <div id="videoGrid" class="video-grid" aria-live="polite"></div>
+      <div id="videoStatus" class="video-status"></div>
+    </section>
+  </main>
+
+  <footer class="footer">
+    <div class="container footer-inner">
+      <div><strong>WOT CLUB</strong><span data-i18n="footerText">The Tankers Community</span></div>
+      <div class="footer-right"><span>© <span id="year"></span> WOT CLUB</span><span class="dot">•</span><span data-i18n="madeFor">Сделано для танкистов</span></div>
+    </div>
+  </footer>
+  <script src="config.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
