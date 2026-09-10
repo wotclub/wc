@@ -4,12 +4,12 @@ window.WOT_CONFIG = {
   links: {
     support: "https://example.com/support",
     donate: "https://example.com/donate",
-    youtube: "https://www.youtube.com/",
-    instagram: "https://www.instagram.com/",
-    tiktok: "https://www.tiktok.com/",
-    facebook: "https://www.facebook.com/"
+    youtube: "https://www.youtube.com/@WOTCB",
+    instagram: "https://www.instagram.com/wot.cl.ub/",
+    tiktok: "https://www.tiktok.com/@wot_club",
+    facebook: "https://www.facebook.com/profile.php?id=61585723430326"
   },
   // Public YouTube Channel ID, e.g. UCxxxxxxxxxxxxxxxxxxxxxx
-  youtubeChannelId: "YOUR_YOUTUBE_CHANNEL_ID",
+  youtubeChannelId: "UCT-sqCh4vP5uhKzzOLCRDqg",
   videoCount: 6
 };
