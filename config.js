@@ -3,7 +3,7 @@
 window.WOT_CONFIG = {
   links: {
     support: "https://example.com/support",
-    donate: "https://example.com/donate",
+    donate: "https://donatello.to/wot_club",
     youtube: "https://www.youtube.com/@WOTCB",
     instagram: "https://www.instagram.com/wot.cl.ub/",
     tiktok: "https://www.tiktok.com/@wot_club",
