@@ -2,7 +2,7 @@
 // You only need to change the values between quotes.
 window.WOT_CONFIG = {
   links: {
-    support: "https://example.com/support",
+    support: "https://send.monobank.ua/jar/SUmWWMgeg",
     donate: "https://donatello.to/wot_club",
     youtube: "https://www.youtube.com/@WOTCB",
     instagram: "https://www.instagram.com/wot.cl.ub/",
