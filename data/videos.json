@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-11T16:27:51.157809+00:00",
+  "updatedAt": "2026-09-11T16:51:43.352332+00:00",
   "videos": [
+    {
+      "title": "T30 WOT - 7535 Damage! #wot",
+      "link": "https://www.youtube.com/shorts/cRFKE6m1bqc",
+      "videoId": "cRFKE6m1bqc",
+      "published": "2026-09-11T16:34:34+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/cRFKE6m1bqc/hqdefault.jpg"
+    },
     {
       "title": "T92 HMC WOT - 4527 Damage!",
       "link": "https://www.youtube.com/shorts/jsDt-eXq7uY",
@@ -77,13 +84,6 @@
       "videoId": "U3fR5UPrcoQ",
       "published": "2026-09-06T15:56:12+00:00",
       "thumbnail": "https://i.ytimg.com/vi/U3fR5UPrcoQ/hqdefault.jpg"
-    },
-    {
-      "title": "T49 WOT - 6648 Damage  #wot",
-      "link": "https://www.youtube.com/shorts/FqMH9Gimg8M",
-      "videoId": "FqMH9Gimg8M",
-      "published": "2026-09-06T11:02:38+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/FqMH9Gimg8M/hqdefault.jpg"
     }
   ]
 }
