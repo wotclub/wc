@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-11T08:54:30.068857+00:00",
+  "updatedAt": "2026-09-11T09:27:13.466142+00:00",
   "videos": [
+    {
+      "title": "T92 HMC WOT - 4527 Damage!",
+      "link": "https://www.youtube.com/shorts/jsDt-eXq7uY",
+      "videoId": "jsDt-eXq7uY",
+      "published": "2026-09-11T09:14:42+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/jsDt-eXq7uY/hqdefault.jpg"
+    },
     {
       "title": "T92 HMC WOT - 6105 Damage!",
       "link": "https://www.youtube.com/shorts/xcXU2EdL5EE",
@@ -77,13 +84,6 @@
       "videoId": "FqMH9Gimg8M",
       "published": "2026-09-06T11:02:38+00:00",
       "thumbnail": "https://i.ytimg.com/vi/FqMH9Gimg8M/hqdefault.jpg"
-    },
-    {
-      "title": "FV4005 Stage II WOT - 13913 Damage!  #wot",
-      "link": "https://www.youtube.com/shorts/kEcen1U0ias",
-      "videoId": "kEcen1U0ias",
-      "published": "2026-09-05T19:19:49+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/kEcen1U0ias/hqdefault.jpg"
     }
   ]
 }
