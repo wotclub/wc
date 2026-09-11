@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-11T21:50:50.321838+00:00",
+  "updatedAt": "2026-09-11T22:25:28.959894+00:00",
   "videos": [
+    {
+      "title": "PTZ-78 WOT - 11K Damage! #wot",
+      "link": "https://www.youtube.com/watch?v=e0tjZDH9Zdw",
+      "videoId": "e0tjZDH9Zdw",
+      "published": "2026-09-11T22:22:37+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/e0tjZDH9Zdw/hqdefault.jpg"
+    },
     {
       "title": "T30 WOT - 7535 Damage! #wot",
       "link": "https://www.youtube.com/shorts/cRFKE6m1bqc",
@@ -77,13 +84,6 @@
       "videoId": "GU7kxZmVNM8",
       "published": "2026-09-07T18:55:10+00:00",
       "thumbnail": "https://i.ytimg.com/vi/GU7kxZmVNM8/hqdefault.jpg"
-    },
-    {
-      "title": "SFAC 105 WOT - 8791 Damage #wot",
-      "link": "https://www.youtube.com/shorts/U3fR5UPrcoQ",
-      "videoId": "U3fR5UPrcoQ",
-      "published": "2026-09-06T15:56:12+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/U3fR5UPrcoQ/hqdefault.jpg"
     }
   ]
 }
