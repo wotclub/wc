@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-12T11:24:05.435841+00:00",
+  "updatedAt": "2026-09-12T11:50:31.592454+00:00",
   "videos": [
+    {
+      "title": "FV4005 Stage II WOT - 9578 Damage!",
+      "link": "https://www.youtube.com/shorts/bbS0NWL1SjY",
+      "videoId": "bbS0NWL1SjY",
+      "published": "2026-09-12T11:38:43+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/bbS0NWL1SjY/hqdefault.jpg"
+    },
     {
       "title": "PTZ-78 WOT - 11K Damage! #wot",
       "link": "https://www.youtube.com/watch?v=e0tjZDH9Zdw",
@@ -77,13 +84,6 @@
       "videoId": "O4C8r2dd6Hc",
       "published": "2026-09-08T18:50:29+00:00",
       "thumbnail": "https://i.ytimg.com/vi/O4C8r2dd6Hc/hqdefault.jpg"
-    },
-    {
-      "title": "Obj. 268/4 WOT - 10358 Damage! #wot",
-      "link": "https://www.youtube.com/shorts/GU7kxZmVNM8",
-      "videoId": "GU7kxZmVNM8",
-      "published": "2026-09-07T18:55:10+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/GU7kxZmVNM8/hqdefault.jpg"
     }
   ]
 }
