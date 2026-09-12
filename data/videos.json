@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-12T20:58:45.980383+00:00",
+  "updatedAt": "2026-09-12T21:26:36.329230+00:00",
   "videos": [
+    {
+      "title": "BZT-70 WOT - 10163 Damage!",
+      "link": "https://www.youtube.com/shorts/f4p28pZEWmg",
+      "videoId": "f4p28pZEWmg",
+      "published": "2026-09-12T21:06:29+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/f4p28pZEWmg/hqdefault.jpg"
+    },
     {
       "title": "T49 WOT - 8192 Damage!",
       "link": "https://www.youtube.com/shorts/DANGdf2S6Vg",
@@ -77,13 +84,6 @@
       "videoId": "15krs2ruUlk",
       "published": "2026-09-09T14:29:00+00:00",
       "thumbnail": "https://i.ytimg.com/vi/15krs2ruUlk/hqdefault.jpg"
-    },
-    {
-      "title": "FV4005 WOT - 4 Kills and 9077 Damage!",
-      "link": "https://www.youtube.com/shorts/8x5rIr32z84",
-      "videoId": "8x5rIr32z84",
-      "published": "2026-09-09T08:59:40+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/8x5rIr32z84/hqdefault.jpg"
     }
   ]
 }
