@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-13T12:30:10.168835+00:00",
+  "updatedAt": "2026-09-13T12:53:52.126059+00:00",
   "videos": [
+    {
+      "title": "T92 HMC WOT - 6989 Damage!",
+      "link": "https://www.youtube.com/shorts/2im279CbtQA",
+      "videoId": "2im279CbtQA",
+      "published": "2026-09-13T12:47:34+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/2im279CbtQA/hqdefault.jpg"
+    },
     {
       "title": "BZT-70 WOT - One shot one kill!",
       "link": "https://www.youtube.com/shorts/0cptDBQEutU",
@@ -77,13 +84,6 @@
       "videoId": "X_x7ePSHwDY",
       "published": "2026-09-10T10:55:21+00:00",
       "thumbnail": "https://i.ytimg.com/vi/X_x7ePSHwDY/hqdefault.jpg"
-    },
-    {
-      "title": "FV215b 183 WOT - 11318 Damage!",
-      "link": "https://www.youtube.com/shorts/S1Voog9m9yM",
-      "videoId": "S1Voog9m9yM",
-      "published": "2026-09-09T19:25:03+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/S1Voog9m9yM/hqdefault.jpg"
     }
   ]
 }
