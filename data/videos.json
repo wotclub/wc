@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-13T07:51:44.404130+00:00",
+  "updatedAt": "2026-09-13T08:26:47.904343+00:00",
   "videos": [
+    {
+      "title": "BZT-70 WOT - One shot one kill!",
+      "link": "https://www.youtube.com/shorts/0cptDBQEutU",
+      "videoId": "0cptDBQEutU",
+      "published": "2026-09-13T08:09:04+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/0cptDBQEutU/hqdefault.jpg"
+    },
     {
       "title": "BZT-70 WOT - 10163 Damage!",
       "link": "https://www.youtube.com/shorts/f4p28pZEWmg",
@@ -77,13 +84,6 @@
       "videoId": "S1Voog9m9yM",
       "published": "2026-09-09T19:25:03+00:00",
       "thumbnail": "https://i.ytimg.com/vi/S1Voog9m9yM/hqdefault.jpg"
-    },
-    {
-      "title": "FV4005 Stage II WOT - 10484 Damage!",
-      "link": "https://www.youtube.com/shorts/15krs2ruUlk",
-      "videoId": "15krs2ruUlk",
-      "published": "2026-09-09T14:29:00+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/15krs2ruUlk/hqdefault.jpg"
     }
   ]
 }
