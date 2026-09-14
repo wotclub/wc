@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-14T12:58:10.798542+00:00",
+  "updatedAt": "2026-09-14T13:29:59.831674+00:00",
   "videos": [
+    {
+      "title": "Pz. Neu 11 lvl WOT - 12K Damage!",
+      "link": "https://www.youtube.com/watch?v=8ZqGW8ddMlw",
+      "videoId": "8ZqGW8ddMlw",
+      "published": "2026-09-14T13:02:44+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/8ZqGW8ddMlw/hqdefault.jpg"
+    },
     {
       "title": "FV215b 183 WOT - 9691 Damage!",
       "link": "https://www.youtube.com/shorts/LQWcHkqeM1A",
@@ -77,13 +84,6 @@
       "videoId": "xcXU2EdL5EE",
       "published": "2026-09-10T20:57:56+00:00",
       "thumbnail": "https://i.ytimg.com/vi/xcXU2EdL5EE/hqdefault.jpg"
-    },
-    {
-      "title": "FV4005 Stage II WOT - 12K Damage!",
-      "link": "https://www.youtube.com/watch?v=NEKPE26R-DY",
-      "videoId": "NEKPE26R-DY",
-      "published": "2026-09-10T17:09:29+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/NEKPE26R-DY/hqdefault.jpg"
     }
   ]
 }
