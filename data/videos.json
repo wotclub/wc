@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-14T09:57:03.258547+00:00",
+  "updatedAt": "2026-09-14T10:27:42.910467+00:00",
   "videos": [
+    {
+      "title": "FV215b 183 WOT - 9691 Damage!",
+      "link": "https://www.youtube.com/shorts/LQWcHkqeM1A",
+      "videoId": "LQWcHkqeM1A",
+      "published": "2026-09-14T10:04:20+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/LQWcHkqeM1A/hqdefault.jpg"
+    },
     {
       "title": "FV4005 Stage II WOT - 9754 Damage!",
       "link": "https://www.youtube.com/shorts/HtSaDSWDoSU",
@@ -77,13 +84,6 @@
       "videoId": "NEKPE26R-DY",
       "published": "2026-09-10T17:09:29+00:00",
       "thumbnail": "https://i.ytimg.com/vi/NEKPE26R-DY/hqdefault.jpg"
-    },
-    {
-      "title": "FV215b 183 WOT - 9956 Damage!",
-      "link": "https://www.youtube.com/shorts/9ZWObE0Yk4c",
-      "videoId": "9ZWObE0Yk4c",
-      "published": "2026-09-10T15:33:34+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/9ZWObE0Yk4c/hqdefault.jpg"
     }
   ]
 }
