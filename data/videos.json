@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-15T12:56:33.931962+00:00",
+  "updatedAt": "2026-09-15T13:28:19.781741+00:00",
   "videos": [
+    {
+      "title": "Jagdpanzer E 100 WOT - 10231 Damage!",
+      "link": "https://www.youtube.com/shorts/okq1qGm2_xs",
+      "videoId": "okq1qGm2_xs",
+      "published": "2026-09-15T13:26:35+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/okq1qGm2_xs/hqdefault.jpg"
+    },
     {
       "title": "Jagdpanzer E 100 WOT - 10082 Damage!",
       "link": "https://www.youtube.com/shorts/VH5C54V_e-o",
@@ -77,13 +84,6 @@
       "videoId": "cRFKE6m1bqc",
       "published": "2026-09-11T16:34:34+00:00",
       "thumbnail": "https://i.ytimg.com/vi/cRFKE6m1bqc/hqdefault.jpg"
-    },
-    {
-      "title": "T92 HMC WOT - 4527 Damage!",
-      "link": "https://www.youtube.com/shorts/jsDt-eXq7uY",
-      "videoId": "jsDt-eXq7uY",
-      "published": "2026-09-11T09:14:42+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/jsDt-eXq7uY/hqdefault.jpg"
     }
   ]
 }
