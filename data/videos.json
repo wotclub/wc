@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-15T15:26:34.567908+00:00",
+  "updatedAt": "2026-09-15T15:54:07.702811+00:00",
   "videos": [
+    {
+      "title": "Rheinmetall Skorpion G WOT - 6650 Damage!",
+      "link": "https://www.youtube.com/shorts/etU3j6P_6eo",
+      "videoId": "etU3j6P_6eo",
+      "published": "2026-09-15T15:47:54+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/etU3j6P_6eo/hqdefault.jpg"
+    },
     {
       "title": "Jagdpanzer E 100 WOT - 10231 Damage!",
       "link": "https://www.youtube.com/shorts/okq1qGm2_xs",
@@ -77,13 +84,6 @@
       "videoId": "e0tjZDH9Zdw",
       "published": "2026-09-11T22:22:37+00:00",
       "thumbnail": "https://i.ytimg.com/vi/e0tjZDH9Zdw/hqdefault.jpg"
-    },
-    {
-      "title": "T30 WOT - 7535 Damage! #wot",
-      "link": "https://www.youtube.com/shorts/cRFKE6m1bqc",
-      "videoId": "cRFKE6m1bqc",
-      "published": "2026-09-11T16:34:34+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/cRFKE6m1bqc/hqdefault.jpg"
     }
   ]
 }
