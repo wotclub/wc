@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-16T10:53:13.275373+00:00",
+  "updatedAt": "2026-09-16T11:27:02.216087+00:00",
   "videos": [
+    {
+      "title": "FV215b 183 WOT - 9724 Damage!",
+      "link": "https://www.youtube.com/shorts/3o6Af0C_-8I",
+      "videoId": "3o6Af0C_-8I",
+      "published": "2026-09-16T11:04:53+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/3o6Af0C_-8I/hqdefault.jpg"
+    },
     {
       "title": "Rheinmetall Skorpion G WOT - 6650 Damage!",
       "link": "https://www.youtube.com/shorts/etU3j6P_6eo",
@@ -77,13 +84,6 @@
       "videoId": "bbS0NWL1SjY",
       "published": "2026-09-12T11:38:43+00:00",
       "thumbnail": "https://i.ytimg.com/vi/bbS0NWL1SjY/hqdefault.jpg"
-    },
-    {
-      "title": "PTZ-78 WOT - 11K Damage! #wot",
-      "link": "https://www.youtube.com/watch?v=e0tjZDH9Zdw",
-      "videoId": "e0tjZDH9Zdw",
-      "published": "2026-09-11T22:22:37+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/e0tjZDH9Zdw/hqdefault.jpg"
     }
   ]
 }
