@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-17T10:53:24.665142+00:00",
+  "updatedAt": "2026-09-17T11:26:11.487970+00:00",
   "videos": [
+    {
+      "title": "Ho-Ri 3 WOT - 10158 Damage!",
+      "link": "https://www.youtube.com/shorts/FUSKEUHU7og",
+      "videoId": "FUSKEUHU7og",
+      "published": "2026-09-17T11:22:06+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/FUSKEUHU7og/hqdefault.jpg"
+    },
     {
       "title": "FV4005 Stage II WOT - 8894 Damage!",
       "link": "https://www.youtube.com/shorts/ctLRqGc2h9E",
@@ -77,13 +84,6 @@
       "videoId": "f4p28pZEWmg",
       "published": "2026-09-12T21:06:29+00:00",
       "thumbnail": "https://i.ytimg.com/vi/f4p28pZEWmg/hqdefault.jpg"
-    },
-    {
-      "title": "T49 WOT - 8192 Damage!",
-      "link": "https://www.youtube.com/shorts/DANGdf2S6Vg",
-      "videoId": "DANGdf2S6Vg",
-      "published": "2026-09-12T16:11:02+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/DANGdf2S6Vg/hqdefault.jpg"
     }
   ]
 }
