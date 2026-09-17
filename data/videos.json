@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-17T16:27:23.300606+00:00",
+  "updatedAt": "2026-09-17T16:53:10.867670+00:00",
   "videos": [
+    {
+      "title": "СУ-130ПМ WOT - 7025 Damage!",
+      "link": "https://www.youtube.com/shorts/7Z2NvFSSm8M",
+      "videoId": "7Z2NvFSSm8M",
+      "published": "2026-09-17T16:51:42+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/7Z2NvFSSm8M/hqdefault.jpg"
+    },
     {
       "title": "Ho-Ri 3 WOT - 10K Damage!",
       "link": "https://www.youtube.com/watch?v=i_kB_bgRvGA",
@@ -77,13 +84,6 @@
       "videoId": "2im279CbtQA",
       "published": "2026-09-13T12:47:34+00:00",
       "thumbnail": "https://i.ytimg.com/vi/2im279CbtQA/hqdefault.jpg"
-    },
-    {
-      "title": "BZT-70 WOT - One shot one kill!",
-      "link": "https://www.youtube.com/shorts/0cptDBQEutU",
-      "videoId": "0cptDBQEutU",
-      "published": "2026-09-13T08:09:04+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/0cptDBQEutU/hqdefault.jpg"
     }
   ]
 }
