@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-18T13:52:21.152052+00:00",
+  "updatedAt": "2026-09-18T14:26:43.313765+00:00",
   "videos": [
+    {
+      "title": "Vz. 63P WOT - 10.5K Damage!",
+      "link": "https://www.youtube.com/watch?v=mNZWnxplCDg",
+      "videoId": "mNZWnxplCDg",
+      "published": "2026-09-18T14:09:18+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/mNZWnxplCDg/hqdefault.jpg"
+    },
     {
       "title": "ISU-152 WOT - 8113 Damage!",
       "link": "https://www.youtube.com/shorts/KY4S1cTl-Do",
@@ -77,13 +84,6 @@
       "videoId": "LQWcHkqeM1A",
       "published": "2026-09-14T10:04:20+00:00",
       "thumbnail": "https://i.ytimg.com/vi/LQWcHkqeM1A/hqdefault.jpg"
-    },
-    {
-      "title": "FV4005 Stage II WOT - 9754 Damage!",
-      "link": "https://www.youtube.com/shorts/HtSaDSWDoSU",
-      "videoId": "HtSaDSWDoSU",
-      "published": "2026-09-13T19:28:22+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/HtSaDSWDoSU/hqdefault.jpg"
     }
   ]
 }
