@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-18T20:50:59.226074+00:00",
+  "updatedAt": "2026-09-18T21:25:08.069288+00:00",
   "videos": [
+    {
+      "title": "FV215b 183 WOT - 9845 Damage!",
+      "link": "https://www.youtube.com/shorts/nRXzmsYbtjY",
+      "videoId": "nRXzmsYbtjY",
+      "published": "2026-09-18T21:06:40+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/nRXzmsYbtjY/hqdefault.jpg"
+    },
     {
       "title": "Hirschkäfer WOT - 10149 Damage!",
       "link": "https://www.youtube.com/shorts/syjroLNfREI",
@@ -77,13 +84,6 @@
       "videoId": "VH5C54V_e-o",
       "published": "2026-09-14T16:42:45+00:00",
       "thumbnail": "https://i.ytimg.com/vi/VH5C54V_e-o/hqdefault.jpg"
-    },
-    {
-      "title": "Pz. Neu 11 lvl WOT - 12K Damage!",
-      "link": "https://www.youtube.com/watch?v=8ZqGW8ddMlw",
-      "videoId": "8ZqGW8ddMlw",
-      "published": "2026-09-14T13:02:44+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/8ZqGW8ddMlw/hqdefault.jpg"
     }
   ]
 }
