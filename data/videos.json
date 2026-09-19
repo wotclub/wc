@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-19T14:24:45.186930+00:00",
+  "updatedAt": "2026-09-19T14:50:09.790418+00:00",
   "videos": [
+    {
+      "title": "Obj. 268 WOT - 11023 Damage!",
+      "link": "https://www.youtube.com/shorts/vQajLu2PHoM",
+      "videoId": "vQajLu2PHoM",
+      "published": "2026-09-19T14:29:57+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/vQajLu2PHoM/hqdefault.jpg"
+    },
     {
       "title": "FV215b 183 WOT - 9845 Damage!",
       "link": "https://www.youtube.com/watch?v=ZmkhBEcVQnc",
@@ -77,13 +84,6 @@
       "videoId": "etU3j6P_6eo",
       "published": "2026-09-15T15:47:54+00:00",
       "thumbnail": "https://i.ytimg.com/vi/etU3j6P_6eo/hqdefault.jpg"
-    },
-    {
-      "title": "Jagdpanzer E 100 WOT - 10231 Damage!",
-      "link": "https://www.youtube.com/shorts/okq1qGm2_xs",
-      "videoId": "okq1qGm2_xs",
-      "published": "2026-09-15T13:26:35+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/okq1qGm2_xs/hqdefault.jpg"
     }
   ]
 }
