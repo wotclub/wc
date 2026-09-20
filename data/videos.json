@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-20T14:24:52.576795+00:00",
+  "updatedAt": "2026-09-20T14:50:56.048589+00:00",
   "videos": [
+    {
+      "title": "60TP Lewandowski WOT - 9949 Damage!",
+      "link": "https://www.youtube.com/shorts/u5GndWV9tQY",
+      "videoId": "u5GndWV9tQY",
+      "published": "2026-09-20T14:37:54+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/u5GndWV9tQY/hqdefault.jpg"
+    },
     {
       "title": "KV 2 WOT - 4172 Damage!",
       "link": "https://www.youtube.com/shorts/T3_lZdXoNyc",
@@ -77,13 +84,6 @@
       "videoId": "i_kB_bgRvGA",
       "published": "2026-09-17T13:26:02+00:00",
       "thumbnail": "https://i.ytimg.com/vi/i_kB_bgRvGA/hqdefault.jpg"
-    },
-    {
-      "title": "Ho-Ri 3 WOT - 10158 Damage!",
-      "link": "https://www.youtube.com/shorts/FUSKEUHU7og",
-      "videoId": "FUSKEUHU7og",
-      "published": "2026-09-17T11:22:06+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/FUSKEUHU7og/hqdefault.jpg"
     }
   ]
 }
