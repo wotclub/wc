@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-21T17:23:27.598976+00:00",
+  "updatedAt": "2026-09-21T17:51:37.308731+00:00",
   "videos": [
+    {
+      "title": "FV4005 Stage II WOT - 11799 Damage!",
+      "link": "https://www.youtube.com/shorts/uvrvp9QJXfI",
+      "videoId": "uvrvp9QJXfI",
+      "published": "2026-09-21T17:40:32+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/uvrvp9QJXfI/hqdefault.jpg"
+    },
     {
       "title": "FV4005 Stage II WOT - 9779 Damage!",
       "link": "https://www.youtube.com/shorts/4gDNqlC5Ddg",
@@ -77,13 +84,6 @@
       "videoId": "KY4S1cTl-Do",
       "published": "2026-09-18T12:31:49+00:00",
       "thumbnail": "https://i.ytimg.com/vi/KY4S1cTl-Do/hqdefault.jpg"
-    },
-    {
-      "title": "СУ-130ПМ WOT - 7025 Damage!",
-      "link": "https://www.youtube.com/shorts/7Z2NvFSSm8M",
-      "videoId": "7Z2NvFSSm8M",
-      "published": "2026-09-17T16:51:42+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/7Z2NvFSSm8M/hqdefault.jpg"
     }
   ]
 }
