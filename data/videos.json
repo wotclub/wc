@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-23T09:53:34.519914+00:00",
+  "updatedAt": "2026-09-23T10:27:04.071904+00:00",
   "videos": [
+    {
+      "title": "FV215b 183 WOT - 9395 Damage!",
+      "link": "https://www.youtube.com/shorts/o-q6SUdwXb0",
+      "videoId": "o-q6SUdwXb0",
+      "published": "2026-09-23T10:09:40+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/o-q6SUdwXb0/hqdefault.jpg"
+    },
     {
       "title": "T92 HMC WOT - 5284 Damage!",
       "link": "https://www.youtube.com/shorts/CZulfTySMNI",
@@ -77,13 +84,6 @@
       "videoId": "syjroLNfREI",
       "published": "2026-09-18T17:35:40+00:00",
       "thumbnail": "https://i.ytimg.com/vi/syjroLNfREI/hqdefault.jpg"
-    },
-    {
-      "title": "Vz. 63P WOT - 10.5K Damage!",
-      "link": "https://www.youtube.com/watch?v=mNZWnxplCDg",
-      "videoId": "mNZWnxplCDg",
-      "published": "2026-09-18T14:09:18+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/mNZWnxplCDg/hqdefault.jpg"
     }
   ]
 }
