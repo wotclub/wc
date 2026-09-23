@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-23T10:53:18.950091+00:00",
+  "updatedAt": "2026-09-23T11:26:30.529112+00:00",
   "videos": [
+    {
+      "title": "FV4005 Stage II WOT - 9624 Damage!",
+      "link": "https://www.youtube.com/shorts/5N_aOIZI2Jo",
+      "videoId": "5N_aOIZI2Jo",
+      "published": "2026-09-23T11:25:56+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/5N_aOIZI2Jo/hqdefault.jpg"
+    },
     {
       "title": "FV215b 183 WOT - 9395 Damage!",
       "link": "https://www.youtube.com/shorts/o-q6SUdwXb0",
@@ -77,13 +84,6 @@
       "videoId": "nRXzmsYbtjY",
       "published": "2026-09-18T21:06:40+00:00",
       "thumbnail": "https://i.ytimg.com/vi/nRXzmsYbtjY/hqdefault.jpg"
-    },
-    {
-      "title": "Hirschkäfer WOT - 10149 Damage!",
-      "link": "https://www.youtube.com/shorts/syjroLNfREI",
-      "videoId": "syjroLNfREI",
-      "published": "2026-09-18T17:35:40+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/syjroLNfREI/hqdefault.jpg"
     }
   ]
 }
