@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-25T08:53:54.380531+00:00",
+  "updatedAt": "2026-09-25T09:28:03.339291+00:00",
   "videos": [
+    {
+      "title": "T49 WOT - 6558 Damage!",
+      "link": "https://www.youtube.com/shorts/J4NBN4oEMkc",
+      "videoId": "J4NBN4oEMkc",
+      "published": "2026-09-25T09:00:03+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/J4NBN4oEMkc/hqdefault.jpg"
+    },
     {
       "title": "T110E4 WOT - 10K Damage!",
       "link": "https://www.youtube.com/watch?v=TQ30VPX62Us",
@@ -77,13 +84,6 @@
       "videoId": "1mP1ZBiml0c",
       "published": "2026-09-19T17:34:30+00:00",
       "thumbnail": "https://i.ytimg.com/vi/1mP1ZBiml0c/hqdefault.jpg"
-    },
-    {
-      "title": "Obj. 268 WOT - 11023 Damage!",
-      "link": "https://www.youtube.com/shorts/vQajLu2PHoM",
-      "videoId": "vQajLu2PHoM",
-      "published": "2026-09-19T14:29:57+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/vQajLu2PHoM/hqdefault.jpg"
     }
   ]
 }
