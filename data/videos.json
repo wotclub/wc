@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-25T10:53:34.308363+00:00",
+  "updatedAt": "2026-09-25T11:26:50.965861+00:00",
   "videos": [
+    {
+      "title": "FV215b 183 WOT - 14009 Damage!",
+      "link": "https://www.youtube.com/shorts/Jwr7-7Lh1II",
+      "videoId": "Jwr7-7Lh1II",
+      "published": "2026-09-25T10:56:14+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Jwr7-7Lh1II/hqdefault.jpg"
+    },
     {
       "title": "T49 WOT - 6558 Damage!",
       "link": "https://www.youtube.com/shorts/J4NBN4oEMkc",
@@ -77,13 +84,6 @@
       "videoId": "ObYu0bhizgQ",
       "published": "2026-09-20T08:39:25+00:00",
       "thumbnail": "https://i.ytimg.com/vi/ObYu0bhizgQ/hqdefault.jpg"
-    },
-    {
-      "title": "XM57 WOT - 7137 Damage!",
-      "link": "https://www.youtube.com/shorts/1mP1ZBiml0c",
-      "videoId": "1mP1ZBiml0c",
-      "published": "2026-09-19T17:34:30+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/1mP1ZBiml0c/hqdefault.jpg"
     }
   ]
 }
