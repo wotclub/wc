@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-25T19:52:13.680981+00:00",
+  "updatedAt": "2026-09-25T20:26:10.581997+00:00",
   "videos": [
+    {
+      "title": "KV 2 WOT - 5681 Damage!",
+      "link": "https://www.youtube.com/shorts/mt9c9SzRX_w",
+      "videoId": "mt9c9SzRX_w",
+      "published": "2026-09-25T20:15:24+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/mt9c9SzRX_w/hqdefault.jpg"
+    },
     {
       "title": "FV215b 183 WOT - 14009 Damage!",
       "link": "https://www.youtube.com/shorts/Jwr7-7Lh1II",
@@ -77,13 +84,6 @@
       "videoId": "T3_lZdXoNyc",
       "published": "2026-09-20T08:44:18+00:00",
       "thumbnail": "https://i.ytimg.com/vi/T3_lZdXoNyc/hqdefault.jpg"
-    },
-    {
-      "title": "KV 2 WOT - 4K Damage!",
-      "link": "https://www.youtube.com/watch?v=ObYu0bhizgQ",
-      "videoId": "ObYu0bhizgQ",
-      "published": "2026-09-20T08:39:25+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/ObYu0bhizgQ/hqdefault.jpg"
     }
   ]
 }
