@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-26T13:50:56.749444+00:00",
+  "updatedAt": "2026-09-26T14:26:17.045226+00:00",
   "videos": [
+    {
+      "title": "T110E3 WOT - 9944 Damage!",
+      "link": "https://www.youtube.com/shorts/Jp70zMQPO7U",
+      "videoId": "Jp70zMQPO7U",
+      "published": "2026-09-26T14:08:46+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Jp70zMQPO7U/hqdefault.jpg"
+    },
     {
       "title": "Cobra WOT - 6.4K Damage and 11 Kills!",
       "link": "https://www.youtube.com/shorts/PZeGQtLBCyk",
@@ -77,13 +84,6 @@
       "videoId": "4gDNqlC5Ddg",
       "published": "2026-09-21T10:15:40+00:00",
       "thumbnail": "https://i.ytimg.com/vi/4gDNqlC5Ddg/hqdefault.jpg"
-    },
-    {
-      "title": "60TP Lewandowski WOT - 9949 Damage!",
-      "link": "https://www.youtube.com/shorts/u5GndWV9tQY",
-      "videoId": "u5GndWV9tQY",
-      "published": "2026-09-20T14:37:54+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/u5GndWV9tQY/hqdefault.jpg"
     }
   ]
 }
