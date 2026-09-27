@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-27T19:24:18.730935+00:00",
+  "updatedAt": "2026-09-27T19:50:40.862704+00:00",
   "videos": [
+    {
+      "title": "Jagdpanzer E 100 WOT - 11653 Damage!",
+      "link": "https://www.youtube.com/shorts/pHi9wXu5xcw",
+      "videoId": "pHi9wXu5xcw",
+      "published": "2026-09-27T19:44:35+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/pHi9wXu5xcw/hqdefault.jpg"
+    },
     {
       "title": "FV4005 Stage II WOT - 7559 Damage!",
       "link": "https://www.youtube.com/shorts/HtnL2nCOdTI",
@@ -77,13 +84,6 @@
       "videoId": "luNQ6hj3VbY",
       "published": "2026-09-24T09:40:07+00:00",
       "thumbnail": "https://i.ytimg.com/vi/luNQ6hj3VbY/hqdefault.jpg"
-    },
-    {
-      "title": "FV4005 Stage II WOT - 9624 Damage!",
-      "link": "https://www.youtube.com/shorts/5N_aOIZI2Jo",
-      "videoId": "5N_aOIZI2Jo",
-      "published": "2026-09-23T11:25:56+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/5N_aOIZI2Jo/hqdefault.jpg"
     }
   ]
 }
