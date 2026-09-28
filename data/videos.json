@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-28T14:31:51.719691+00:00",
+  "updatedAt": "2026-09-28T14:58:32.919335+00:00",
   "videos": [
+    {
+      "title": "Grille 15 WOT - 9818 Damage!",
+      "link": "https://www.youtube.com/shorts/gLlzx_Lm32s",
+      "videoId": "gLlzx_Lm32s",
+      "published": "2026-09-28T14:34:49+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/gLlzx_Lm32s/hqdefault.jpg"
+    },
     {
       "title": "Jagdpanzer E 100 WOT - 11653 Damage!",
       "link": "https://www.youtube.com/shorts/pHi9wXu5xcw",
@@ -77,13 +84,6 @@
       "videoId": "TQ30VPX62Us",
       "published": "2026-09-24T10:45:24+00:00",
       "thumbnail": "https://i.ytimg.com/vi/TQ30VPX62Us/hqdefault.jpg"
-    },
-    {
-      "title": "T110E4 WOT - 10403 Damage!",
-      "link": "https://www.youtube.com/shorts/luNQ6hj3VbY",
-      "videoId": "luNQ6hj3VbY",
-      "published": "2026-09-24T09:40:07+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/luNQ6hj3VbY/hqdefault.jpg"
     }
   ]
 }
