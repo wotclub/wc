@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-28T18:32:09.770512+00:00",
+  "updatedAt": "2026-09-28T18:57:24.460879+00:00",
   "videos": [
+    {
+      "title": "Shugo WOT - 10K Damage! 1 VS 7",
+      "link": "https://www.youtube.com/watch?v=HfLLhVQIhpc",
+      "videoId": "HfLLhVQIhpc",
+      "published": "2026-09-28T18:35:50+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/HfLLhVQIhpc/hqdefault.jpg"
+    },
     {
       "title": "Grille 15 WOT - 9818 Damage!",
       "link": "https://www.youtube.com/shorts/gLlzx_Lm32s",
@@ -77,13 +84,6 @@
       "videoId": "J4NBN4oEMkc",
       "published": "2026-09-25T09:00:03+00:00",
       "thumbnail": "https://i.ytimg.com/vi/J4NBN4oEMkc/hqdefault.jpg"
-    },
-    {
-      "title": "T110E4 WOT - 10K Damage!",
-      "link": "https://www.youtube.com/watch?v=TQ30VPX62Us",
-      "videoId": "TQ30VPX62Us",
-      "published": "2026-09-24T10:45:24+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/TQ30VPX62Us/hqdefault.jpg"
     }
   ]
 }
