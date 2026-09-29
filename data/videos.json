@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-29T11:55:27.527690+00:00",
+  "updatedAt": "2026-09-29T12:35:14.321692+00:00",
   "videos": [
+    {
+      "title": "FV4005 Stage II WOT - 11961 Damage!",
+      "link": "https://www.youtube.com/shorts/wV-l3MIaoeg",
+      "videoId": "wV-l3MIaoeg",
+      "published": "2026-09-29T12:18:08+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/wV-l3MIaoeg/hqdefault.jpg"
+    },
     {
       "title": "Shugo WOT - 10K Damage! 1 VS 7",
       "link": "https://www.youtube.com/watch?v=HfLLhVQIhpc",
@@ -77,13 +84,6 @@
       "videoId": "Jwr7-7Lh1II",
       "published": "2026-09-25T10:56:14+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Jwr7-7Lh1II/hqdefault.jpg"
-    },
-    {
-      "title": "T49 WOT - 6558 Damage!",
-      "link": "https://www.youtube.com/shorts/J4NBN4oEMkc",
-      "videoId": "J4NBN4oEMkc",
-      "published": "2026-09-25T09:00:03+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/J4NBN4oEMkc/hqdefault.jpg"
     }
   ]
 }
