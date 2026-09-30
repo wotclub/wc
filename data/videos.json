@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-30T12:38:30.485874+00:00",
+  "updatedAt": "2026-09-30T13:01:42.866044+00:00",
   "videos": [
+    {
+      "title": "WT auf Pz IV WOT - 7830 Damage!",
+      "link": "https://www.youtube.com/shorts/HrLJmgpqrKk",
+      "videoId": "HrLJmgpqrKk",
+      "published": "2026-09-30T12:48:04+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/HrLJmgpqrKk/hqdefault.jpg"
+    },
     {
       "title": "FV4005 Stage II WOT - 11756 Damage!",
       "link": "https://www.youtube.com/shorts/leAbQdmZhnQ",
@@ -77,13 +84,6 @@
       "videoId": "PZeGQtLBCyk",
       "published": "2026-09-26T09:31:56+00:00",
       "thumbnail": "https://i.ytimg.com/vi/PZeGQtLBCyk/hqdefault.jpg"
-    },
-    {
-      "title": "KV 2 WOT - 5681 Damage!",
-      "link": "https://www.youtube.com/shorts/mt9c9SzRX_w",
-      "videoId": "mt9c9SzRX_w",
-      "published": "2026-09-25T20:15:24+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/mt9c9SzRX_w/hqdefault.jpg"
     }
   ]
 }
