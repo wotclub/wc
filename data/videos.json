@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-09-30T16:55:44.465179+00:00",
+  "updatedAt": "2026-09-30T17:29:16.760144+00:00",
   "videos": [
+    {
+      "title": "Object  140 WOT - 10K Damage!",
+      "link": "https://www.youtube.com/watch?v=Gtcp42JIPLw",
+      "videoId": "Gtcp42JIPLw",
+      "published": "2026-09-30T16:59:15+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Gtcp42JIPLw/hqdefault.jpg"
+    },
     {
       "title": "WT auf Pz IV WOT - 7830 Damage!",
       "link": "https://www.youtube.com/shorts/HrLJmgpqrKk",
@@ -77,13 +84,6 @@
       "videoId": "Jp70zMQPO7U",
       "published": "2026-09-26T14:08:46+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Jp70zMQPO7U/hqdefault.jpg"
-    },
-    {
-      "title": "Cobra WOT - 6.4K Damage and 11 Kills!",
-      "link": "https://www.youtube.com/shorts/PZeGQtLBCyk",
-      "videoId": "PZeGQtLBCyk",
-      "published": "2026-09-26T09:31:56+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/PZeGQtLBCyk/hqdefault.jpg"
     }
   ]
 }
