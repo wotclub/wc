@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-01T12:36:27.671490+00:00",
+  "updatedAt": "2026-10-01T13:00:28.204726+00:00",
   "videos": [
+    {
+      "title": "ОБ 430У WOT - 8751 Damage!",
+      "link": "https://www.youtube.com/shorts/pPxyhi_Huyc",
+      "videoId": "pPxyhi_Huyc",
+      "published": "2026-10-01T12:41:49+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/pPxyhi_Huyc/hqdefault.jpg"
+    },
     {
       "title": "T49 WOT - 5725 Damage!",
       "link": "https://www.youtube.com/shorts/oy4N4i68LGc",
@@ -77,13 +84,6 @@
       "videoId": "Kq9BeykX5kw",
       "published": "2026-09-26T17:11:32+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Kq9BeykX5kw/hqdefault.jpg"
-    },
-    {
-      "title": "T110E3 WOT - 9944 Damage!",
-      "link": "https://www.youtube.com/watch?v=teeUpzhwxg0",
-      "videoId": "teeUpzhwxg0",
-      "published": "2026-09-26T14:59:16+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/teeUpzhwxg0/hqdefault.jpg"
     }
   ]
 }
