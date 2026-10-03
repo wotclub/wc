@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-03T10:26:56.595201+00:00",
+  "updatedAt": "2026-10-03T11:17:12.497495+00:00",
   "videos": [
+    {
+      "title": "Skorpion G WOT - 7103 Damage!",
+      "link": "https://www.youtube.com/shorts/LiWwpb_IZ70",
+      "videoId": "LiWwpb_IZ70",
+      "published": "2026-10-03T11:16:31+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/LiWwpb_IZ70/hqdefault.jpg"
+    },
     {
       "title": "KV 2 WOT - 4401 Damage!",
       "link": "https://www.youtube.com/shorts/tBD8LITtC64",
@@ -77,13 +84,6 @@
       "videoId": "pHi9wXu5xcw",
       "published": "2026-09-27T19:44:35+00:00",
       "thumbnail": "https://i.ytimg.com/vi/pHi9wXu5xcw/hqdefault.jpg"
-    },
-    {
-      "title": "FV4005 Stage II WOT - 7559 Damage!",
-      "link": "https://www.youtube.com/shorts/HtnL2nCOdTI",
-      "videoId": "HtnL2nCOdTI",
-      "published": "2026-09-27T15:10:30+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/HtnL2nCOdTI/hqdefault.jpg"
     }
   ]
 }
