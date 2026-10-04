@@ -1,6 +1,27 @@
 {
-  "updatedAt": "2026-10-03T19:41:54.623068+00:00",
+  "updatedAt": "2026-10-04T10:55:06.585764+00:00",
   "videos": [
+    {
+      "title": "СУ 100Y WOT - 6079 Damage!",
+      "link": "https://www.youtube.com/shorts/0snRItT6vzY",
+      "videoId": "0snRItT6vzY",
+      "published": "2026-10-04T10:31:59+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/0snRItT6vzY/hqdefault.jpg"
+    },
+    {
+      "title": "VK 72 01 K WOT - 11K Damage!",
+      "link": "https://www.youtube.com/watch?v=eNZVeYWALfM",
+      "videoId": "eNZVeYWALfM",
+      "published": "2026-10-03T20:28:55+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/eNZVeYWALfM/hqdefault.jpg"
+    },
+    {
+      "title": "T49 WOT - 7795 Damage!",
+      "link": "https://www.youtube.com/shorts/BEJ9yi9rDUM",
+      "videoId": "BEJ9yi9rDUM",
+      "published": "2026-10-03T19:49:35+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/BEJ9yi9rDUM/hqdefault.jpg"
+    },
     {
       "title": "Skorpion G WOT - 7103 Damage!",
       "link": "https://www.youtube.com/shorts/LiWwpb_IZ70",
@@ -63,27 +84,6 @@
       "videoId": "wV-l3MIaoeg",
       "published": "2026-09-29T12:18:08+00:00",
       "thumbnail": "https://i.ytimg.com/vi/wV-l3MIaoeg/hqdefault.jpg"
-    },
-    {
-      "title": "Shugo WOT - 10K Damage! 1 VS 7",
-      "link": "https://www.youtube.com/watch?v=HfLLhVQIhpc",
-      "videoId": "HfLLhVQIhpc",
-      "published": "2026-09-28T18:35:50+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/HfLLhVQIhpc/hqdefault.jpg"
-    },
-    {
-      "title": "Grille 15 WOT - 9818 Damage!",
-      "link": "https://www.youtube.com/shorts/gLlzx_Lm32s",
-      "videoId": "gLlzx_Lm32s",
-      "published": "2026-09-28T14:34:49+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/gLlzx_Lm32s/hqdefault.jpg"
-    },
-    {
-      "title": "Jagdpanzer E 100 WOT - 11653 Damage!",
-      "link": "https://www.youtube.com/shorts/pHi9wXu5xcw",
-      "videoId": "pHi9wXu5xcw",
-      "published": "2026-09-27T19:44:35+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/pHi9wXu5xcw/hqdefault.jpg"
     }
   ]
 }
