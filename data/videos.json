@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-05T11:31:03.842495+00:00",
+  "updatedAt": "2026-10-05T11:56:56.109167+00:00",
   "videos": [
+    {
+      "title": "Cobra WOT - 8429 Damage!",
+      "link": "https://www.youtube.com/shorts/TK_7rOQz9zM",
+      "videoId": "TK_7rOQz9zM",
+      "published": "2026-10-05T11:51:42+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/TK_7rOQz9zM/hqdefault.jpg"
+    },
     {
       "title": "СУ 100Y WOT - 6079 Damage!",
       "link": "https://www.youtube.com/shorts/0snRItT6vzY",
@@ -77,13 +84,6 @@
       "videoId": "leAbQdmZhnQ",
       "published": "2026-09-30T09:44:08+00:00",
       "thumbnail": "https://i.ytimg.com/vi/leAbQdmZhnQ/hqdefault.jpg"
-    },
-    {
-      "title": "FV4005 Stage II WOT - 11961 Damage!",
-      "link": "https://www.youtube.com/shorts/wV-l3MIaoeg",
-      "videoId": "wV-l3MIaoeg",
-      "published": "2026-09-29T12:18:08+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/wV-l3MIaoeg/hqdefault.jpg"
     }
   ]
 }
