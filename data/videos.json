@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-07T13:03:32.137621+00:00",
+  "updatedAt": "2026-10-07T13:33:05.148734+00:00",
   "videos": [
+    {
+      "title": "FV215b 183 in Paris WOT - 10K Damage!",
+      "link": "https://www.youtube.com/watch?v=v-6lkD4tqII",
+      "videoId": "v-6lkD4tqII",
+      "published": "2026-10-07T13:11:40+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/v-6lkD4tqII/hqdefault.jpg"
+    },
     {
       "title": "IS 4 WOT - 10258 Damage!",
       "link": "https://www.youtube.com/shorts/G2VaHbS6crE",
@@ -77,13 +84,6 @@
       "videoId": "pPxyhi_Huyc",
       "published": "2026-10-01T12:41:49+00:00",
       "thumbnail": "https://i.ytimg.com/vi/pPxyhi_Huyc/hqdefault.jpg"
-    },
-    {
-      "title": "T49 WOT - 5725 Damage!",
-      "link": "https://www.youtube.com/shorts/oy4N4i68LGc",
-      "videoId": "oy4N4i68LGc",
-      "published": "2026-10-01T10:57:33+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/oy4N4i68LGc/hqdefault.jpg"
     }
   ]
 }
