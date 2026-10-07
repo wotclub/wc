@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-07T10:31:04.298571+00:00",
+  "updatedAt": "2026-10-07T10:57:21.550026+00:00",
   "videos": [
+    {
+      "title": "IS 4 WOT - 10258 Damage!",
+      "link": "https://www.youtube.com/shorts/G2VaHbS6crE",
+      "videoId": "G2VaHbS6crE",
+      "published": "2026-10-07T10:46:14+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/G2VaHbS6crE/hqdefault.jpg"
+    },
     {
       "title": "KV 2 WOT - 5801 Damage!",
       "link": "https://www.youtube.com/shorts/KTjrKydPKTg",
@@ -77,13 +84,6 @@
       "videoId": "oy4N4i68LGc",
       "published": "2026-10-01T10:57:33+00:00",
       "thumbnail": "https://i.ytimg.com/vi/oy4N4i68LGc/hqdefault.jpg"
-    },
-    {
-      "title": "Object  140 WOT - 10K Damage!",
-      "link": "https://www.youtube.com/watch?v=Gtcp42JIPLw",
-      "videoId": "Gtcp42JIPLw",
-      "published": "2026-09-30T16:59:15+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Gtcp42JIPLw/hqdefault.jpg"
     }
   ]
 }
