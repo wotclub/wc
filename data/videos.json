@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-08T19:30:29.482100+00:00",
+  "updatedAt": "2026-10-08T19:57:20.461081+00:00",
   "videos": [
+    {
+      "title": "KPz 67 in Fjords WOT - 11.8K Damage!",
+      "link": "https://www.youtube.com/watch?v=GcTjHpZjuYI",
+      "videoId": "GcTjHpZjuYI",
+      "published": "2026-10-08T19:56:36+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/GcTjHpZjuYI/hqdefault.jpg"
+    },
     {
       "title": "CAV 71 WOT in Live Oaks - 10K Damage!",
       "link": "https://www.youtube.com/watch?v=ED1uS4mImbc",
@@ -77,13 +84,6 @@
       "videoId": "LiWwpb_IZ70",
       "published": "2026-10-03T11:16:31+00:00",
       "thumbnail": "https://i.ytimg.com/vi/LiWwpb_IZ70/hqdefault.jpg"
-    },
-    {
-      "title": "KV 2 WOT - 4401 Damage!",
-      "link": "https://www.youtube.com/shorts/tBD8LITtC64",
-      "videoId": "tBD8LITtC64",
-      "published": "2026-10-02T12:37:43+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/tBD8LITtC64/hqdefault.jpg"
     }
   ]
 }
