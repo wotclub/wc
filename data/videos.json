@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-08T15:59:11.913483+00:00",
+  "updatedAt": "2026-10-08T16:34:17.842519+00:00",
   "videos": [
+    {
+      "title": "CAV 71 WOT in Live Oaks - 10K Damage!",
+      "link": "https://www.youtube.com/watch?v=ED1uS4mImbc",
+      "videoId": "ED1uS4mImbc",
+      "published": "2026-10-08T16:05:22+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/ED1uS4mImbc/hqdefault.jpg"
+    },
     {
       "title": "FV4005 Stage II WOT - 10549 Damage!",
       "link": "https://www.youtube.com/shorts/6gXVfDIC15I",
@@ -77,13 +84,6 @@
       "videoId": "tBD8LITtC64",
       "published": "2026-10-02T12:37:43+00:00",
       "thumbnail": "https://i.ytimg.com/vi/tBD8LITtC64/hqdefault.jpg"
-    },
-    {
-      "title": "DBV 152 WOT - 9K Damage!",
-      "link": "https://www.youtube.com/watch?v=8BDCvy_ngzM",
-      "videoId": "8BDCvy_ngzM",
-      "published": "2026-10-01T17:17:56+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/8BDCvy_ngzM/hqdefault.jpg"
     }
   ]
 }
