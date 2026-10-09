@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-09T11:29:01.739779+00:00",
+  "updatedAt": "2026-10-09T11:56:45.853665+00:00",
   "videos": [
+    {
+      "title": "СУ-130ПМ WOT - 8263 Damage!",
+      "link": "https://www.youtube.com/shorts/8fd8b8zln-M",
+      "videoId": "8fd8b8zln-M",
+      "published": "2026-10-09T11:42:46+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/8fd8b8zln-M/hqdefault.jpg"
+    },
     {
       "title": "KPz 67 in Fjords WOT - 11.8K Damage!",
       "link": "https://www.youtube.com/watch?v=GcTjHpZjuYI",
@@ -77,13 +84,6 @@
       "videoId": "BEJ9yi9rDUM",
       "published": "2026-10-03T19:49:35+00:00",
       "thumbnail": "https://i.ytimg.com/vi/BEJ9yi9rDUM/hqdefault.jpg"
-    },
-    {
-      "title": "Skorpion G WOT - 7103 Damage!",
-      "link": "https://www.youtube.com/shorts/LiWwpb_IZ70",
-      "videoId": "LiWwpb_IZ70",
-      "published": "2026-10-03T11:16:31+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/LiWwpb_IZ70/hqdefault.jpg"
     }
   ]
 }
