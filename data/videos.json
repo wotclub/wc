@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-10T09:29:06.556541+00:00",
+  "updatedAt": "2026-10-10T09:55:08.654446+00:00",
   "videos": [
+    {
+      "title": "Imbattable WOT - 10244 Damage!",
+      "link": "https://www.youtube.com/shorts/b5SqvwWaQs8",
+      "videoId": "b5SqvwWaQs8",
+      "published": "2026-10-10T09:29:15+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/b5SqvwWaQs8/hqdefault.jpg"
+    },
     {
       "title": "Executor in Erlenberg WOT - 11.2K Damage!",
       "link": "https://www.youtube.com/watch?v=qYMhNssl28o",
@@ -77,13 +84,6 @@
       "videoId": "0snRItT6vzY",
       "published": "2026-10-04T10:31:59+00:00",
       "thumbnail": "https://i.ytimg.com/vi/0snRItT6vzY/hqdefault.jpg"
-    },
-    {
-      "title": "VK 72 01 K WOT - 11K Damage!",
-      "link": "https://www.youtube.com/watch?v=eNZVeYWALfM",
-      "videoId": "eNZVeYWALfM",
-      "published": "2026-10-03T20:28:55+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/eNZVeYWALfM/hqdefault.jpg"
     }
   ]
 }
