@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-10T15:27:44.290204+00:00",
+  "updatedAt": "2026-10-10T19:32:27.845901+00:00",
   "videos": [
+    {
+      "title": "FV4005 Stage II WOT - 11965 Damage!",
+      "link": "https://www.youtube.com/shorts/WH1hPW5BJ08",
+      "videoId": "WH1hPW5BJ08",
+      "published": "2026-10-10T16:30:42+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/WH1hPW5BJ08/hqdefault.jpg"
+    },
     {
       "title": "Imbattable WOT - 10244 Damage!",
       "link": "https://www.youtube.com/shorts/b5SqvwWaQs8",
@@ -77,13 +84,6 @@
       "videoId": "TK_7rOQz9zM",
       "published": "2026-10-05T11:51:42+00:00",
       "thumbnail": "https://i.ytimg.com/vi/TK_7rOQz9zM/hqdefault.jpg"
-    },
-    {
-      "title": "СУ 100Y WOT - 6079 Damage!",
-      "link": "https://www.youtube.com/shorts/0snRItT6vzY",
-      "videoId": "0snRItT6vzY",
-      "published": "2026-10-04T10:31:59+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/0snRItT6vzY/hqdefault.jpg"
     }
   ]
 }
