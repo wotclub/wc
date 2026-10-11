@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-11T15:40:35.805608+00:00",
+  "updatedAt": "2026-10-11T19:43:23.477583+00:00",
   "videos": [
+    {
+      "title": "WZ 111 5A in Pearl River WOT  - 10K Damage!",
+      "link": "https://www.youtube.com/watch?v=ze64echJ7Os",
+      "videoId": "ze64echJ7Os",
+      "published": "2026-10-11T18:38:03+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/ze64echJ7Os/hqdefault.jpg"
+    },
     {
       "title": "Vz  63P in Tundra WOT  - 12.5K Damage!",
       "link": "https://www.youtube.com/watch?v=vVI46_41QwM",
@@ -77,13 +84,6 @@
       "videoId": "v-6lkD4tqII",
       "published": "2026-10-07T13:11:40+00:00",
       "thumbnail": "https://i.ytimg.com/vi/v-6lkD4tqII/hqdefault.jpg"
-    },
-    {
-      "title": "IS 4 WOT - 10258 Damage!",
-      "link": "https://www.youtube.com/shorts/G2VaHbS6crE",
-      "videoId": "G2VaHbS6crE",
-      "published": "2026-10-07T10:46:14+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/G2VaHbS6crE/hqdefault.jpg"
     }
   ]
 }
