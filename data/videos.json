@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-11T08:50:28.667570+00:00",
+  "updatedAt": "2026-10-11T15:40:35.805608+00:00",
   "videos": [
+    {
+      "title": "Vz  63P in Tundra WOT  - 12.5K Damage!",
+      "link": "https://www.youtube.com/watch?v=vVI46_41QwM",
+      "videoId": "vVI46_41QwM",
+      "published": "2026-10-11T14:24:22+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/vVI46_41QwM/hqdefault.jpg"
+    },
+    {
+      "title": "FV215b 183 WOT - 10849 Damage!",
+      "link": "https://www.youtube.com/shorts/oYMK615xc14",
+      "videoId": "oYMK615xc14",
+      "published": "2026-10-11T08:52:06+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/oYMK615xc14/hqdefault.jpg"
+    },
     {
       "title": "BV 111 in Serene Coast WOT - 10K Damage!",
       "link": "https://www.youtube.com/watch?v=4Vet_WJ5AgA",
@@ -70,20 +84,6 @@
       "videoId": "G2VaHbS6crE",
       "published": "2026-10-07T10:46:14+00:00",
       "thumbnail": "https://i.ytimg.com/vi/G2VaHbS6crE/hqdefault.jpg"
-    },
-    {
-      "title": "KV 2 WOT - 5801 Damage!",
-      "link": "https://www.youtube.com/shorts/KTjrKydPKTg",
-      "videoId": "KTjrKydPKTg",
-      "published": "2026-10-06T16:51:37+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/KTjrKydPKTg/hqdefault.jpg"
-    },
-    {
-      "title": "FV4005 Stage II WOT - 7165 Damage!",
-      "link": "https://www.youtube.com/shorts/OVhyQL1VyP4",
-      "videoId": "OVhyQL1VyP4",
-      "published": "2026-10-06T10:08:22+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/OVhyQL1VyP4/hqdefault.jpg"
     }
   ]
 }
