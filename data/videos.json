@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-10T19:32:27.845901+00:00",
+  "updatedAt": "2026-10-11T08:50:28.667570+00:00",
   "videos": [
+    {
+      "title": "BV 111 in Serene Coast WOT - 10K Damage!",
+      "link": "https://www.youtube.com/watch?v=4Vet_WJ5AgA",
+      "videoId": "4Vet_WJ5AgA",
+      "published": "2026-10-11T08:01:44+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/4Vet_WJ5AgA/hqdefault.jpg"
+    },
     {
       "title": "FV4005 Stage II WOT - 11965 Damage!",
       "link": "https://www.youtube.com/shorts/WH1hPW5BJ08",
@@ -77,13 +84,6 @@
       "videoId": "OVhyQL1VyP4",
       "published": "2026-10-06T10:08:22+00:00",
       "thumbnail": "https://i.ytimg.com/vi/OVhyQL1VyP4/hqdefault.jpg"
-    },
-    {
-      "title": "Cobra WOT - 8429 Damage!",
-      "link": "https://www.youtube.com/shorts/TK_7rOQz9zM",
-      "videoId": "TK_7rOQz9zM",
-      "published": "2026-10-05T11:51:42+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/TK_7rOQz9zM/hqdefault.jpg"
     }
   ]
 }
