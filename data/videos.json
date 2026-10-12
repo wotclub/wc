@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-11T19:43:23.477583+00:00",
+  "updatedAt": "2026-10-12T09:46:02.945244+00:00",
   "videos": [
+    {
+      "title": "Black Rock WOT - 10138 Damage!",
+      "link": "https://www.youtube.com/shorts/Dtie4nKrxR8",
+      "videoId": "Dtie4nKrxR8",
+      "published": "2026-10-12T08:10:07+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Dtie4nKrxR8/hqdefault.jpg"
+    },
     {
       "title": "WZ 111 5A in Pearl River WOT  - 10K Damage!",
       "link": "https://www.youtube.com/watch?v=ze64echJ7Os",
@@ -77,13 +84,6 @@
       "videoId": "6gXVfDIC15I",
       "published": "2026-10-08T12:02:57+00:00",
       "thumbnail": "https://i.ytimg.com/vi/6gXVfDIC15I/hqdefault.jpg"
-    },
-    {
-      "title": "FV215b 183 in Paris WOT - 10K Damage!",
-      "link": "https://www.youtube.com/watch?v=v-6lkD4tqII",
-      "videoId": "v-6lkD4tqII",
-      "published": "2026-10-07T13:11:40+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/v-6lkD4tqII/hqdefault.jpg"
     }
   ]
 }
