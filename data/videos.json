@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-13T08:27:42.737426+00:00",
+  "updatedAt": "2026-10-13T16:27:07.222729+00:00",
   "videos": [
+    {
+      "title": "E 100 in Lauerberg WOT  - 9.5K Damage!",
+      "link": "https://www.youtube.com/watch?v=NAzVCH50syk",
+      "videoId": "NAzVCH50syk",
+      "published": "2026-10-13T16:02:54+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/NAzVCH50syk/hqdefault.jpg"
+    },
+    {
+      "title": "Object 268/4 WOT - 11176 Damage!",
+      "link": "https://www.youtube.com/shorts/ywAhG3KrN10",
+      "videoId": "ywAhG3KrN10",
+      "published": "2026-10-13T11:08:31+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/ywAhG3KrN10/hqdefault.jpg"
+    },
     {
       "title": "Phönix WOT - 9467 Damage!",
       "link": "https://www.youtube.com/shorts/hOEciqiznaI",
@@ -70,20 +84,6 @@
       "videoId": "b5SqvwWaQs8",
       "published": "2026-10-10T09:29:15+00:00",
       "thumbnail": "https://i.ytimg.com/vi/b5SqvwWaQs8/hqdefault.jpg"
-    },
-    {
-      "title": "Executor in Erlenberg WOT - 11.2K Damage!",
-      "link": "https://www.youtube.com/watch?v=qYMhNssl28o",
-      "videoId": "qYMhNssl28o",
-      "published": "2026-10-09T15:16:50+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/qYMhNssl28o/hqdefault.jpg"
-    },
-    {
-      "title": "СУ-130ПМ WOT - 8263 Damage!",
-      "link": "https://www.youtube.com/shorts/8fd8b8zln-M",
-      "videoId": "8fd8b8zln-M",
-      "published": "2026-10-09T11:42:46+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/8fd8b8zln-M/hqdefault.jpg"
     }
   ]
 }
