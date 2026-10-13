@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-12T19:22:39.827003+00:00",
+  "updatedAt": "2026-10-13T08:27:42.737426+00:00",
   "videos": [
+    {
+      "title": "Phönix WOT - 9467 Damage!",
+      "link": "https://www.youtube.com/shorts/hOEciqiznaI",
+      "videoId": "hOEciqiznaI",
+      "published": "2026-10-13T07:29:59+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/hOEciqiznaI/hqdefault.jpg"
+    },
     {
       "title": "AMX 50 B in Steppes WOT  - 10.5K Damage!",
       "link": "https://www.youtube.com/watch?v=NhwaFI2UorM",
@@ -77,13 +84,6 @@
       "videoId": "8fd8b8zln-M",
       "published": "2026-10-09T11:42:46+00:00",
       "thumbnail": "https://i.ytimg.com/vi/8fd8b8zln-M/hqdefault.jpg"
-    },
-    {
-      "title": "KPz 67 in Fjords WOT - 11.8K Damage!",
-      "link": "https://www.youtube.com/watch?v=GcTjHpZjuYI",
-      "videoId": "GcTjHpZjuYI",
-      "published": "2026-10-08T19:56:36+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/GcTjHpZjuYI/hqdefault.jpg"
     }
   ]
 }
