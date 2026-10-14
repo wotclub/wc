@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-14T10:37:09.674086+00:00",
+  "updatedAt": "2026-10-14T15:29:54.216626+00:00",
   "videos": [
+    {
+      "title": "XM69 Hacker in Mountain Pass WOT - 11K Damage!",
+      "link": "https://www.youtube.com/watch?v=218eljaA6Mo",
+      "videoId": "218eljaA6Mo",
+      "published": "2026-10-14T13:41:00+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/218eljaA6Mo/hqdefault.jpg"
+    },
+    {
+      "title": "FV4005 WOT - 8780 Damage!",
+      "link": "https://www.youtube.com/shorts/xRt0LyTKY28",
+      "videoId": "xRt0LyTKY28",
+      "published": "2026-10-14T10:47:27+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/xRt0LyTKY28/hqdefault.jpg"
+    },
     {
       "title": "E 100 in Lauerberg WOT  - 9.5K Damage!",
       "link": "https://www.youtube.com/watch?v=NAzVCH50syk",
@@ -70,20 +84,6 @@
       "videoId": "4Vet_WJ5AgA",
       "published": "2026-10-11T08:01:44+00:00",
       "thumbnail": "https://i.ytimg.com/vi/4Vet_WJ5AgA/hqdefault.jpg"
-    },
-    {
-      "title": "FV4005 Stage II WOT - 11965 Damage!",
-      "link": "https://www.youtube.com/shorts/WH1hPW5BJ08",
-      "videoId": "WH1hPW5BJ08",
-      "published": "2026-10-10T16:30:42+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/WH1hPW5BJ08/hqdefault.jpg"
-    },
-    {
-      "title": "Imbattable WOT - 10244 Damage!",
-      "link": "https://www.youtube.com/shorts/b5SqvwWaQs8",
-      "videoId": "b5SqvwWaQs8",
-      "published": "2026-10-10T09:29:15+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/b5SqvwWaQs8/hqdefault.jpg"
     }
   ]
 }
