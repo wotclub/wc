@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-14T19:42:04.443763+00:00",
+  "updatedAt": "2026-10-15T11:28:28.282349+00:00",
   "videos": [
+    {
+      "title": "FV4005 WOT - 9019 Damage!",
+      "link": "https://www.youtube.com/shorts/Yc4qzcnIV60",
+      "videoId": "Yc4qzcnIV60",
+      "published": "2026-10-15T10:00:51+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Yc4qzcnIV60/hqdefault.jpg"
+    },
     {
       "title": "XM69 Hacker in Mountain Pass WOT - 11K Damage!",
       "link": "https://www.youtube.com/watch?v=218eljaA6Mo",
@@ -77,13 +84,6 @@
       "videoId": "oYMK615xc14",
       "published": "2026-10-11T08:52:06+00:00",
       "thumbnail": "https://i.ytimg.com/vi/oYMK615xc14/hqdefault.jpg"
-    },
-    {
-      "title": "BV 111 in Serene Coast WOT - 10K Damage!",
-      "link": "https://www.youtube.com/watch?v=4Vet_WJ5AgA",
-      "videoId": "4Vet_WJ5AgA",
-      "published": "2026-10-11T08:01:44+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/4Vet_WJ5AgA/hqdefault.jpg"
     }
   ]
 }
