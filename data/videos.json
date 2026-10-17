@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-16T22:05:13.544876+00:00",
+  "updatedAt": "2026-10-17T09:20:46.479208+00:00",
   "videos": [
+    {
+      "title": "Jg Pz E 100 WOT - 8778 Damage!",
+      "link": "https://www.youtube.com/shorts/YpuS8UrzjbQ",
+      "videoId": "YpuS8UrzjbQ",
+      "published": "2026-10-17T09:01:04+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/YpuS8UrzjbQ/hqdefault.jpg"
+    },
     {
       "title": "FV4005 WOT - 11919 Damage!",
       "link": "https://www.youtube.com/shorts/g6GbU2e4sTA",
@@ -77,13 +84,6 @@
       "videoId": "ze64echJ7Os",
       "published": "2026-10-11T18:38:03+00:00",
       "thumbnail": "https://i.ytimg.com/vi/ze64echJ7Os/hqdefault.jpg"
-    },
-    {
-      "title": "Vz  63P in Tundra WOT  - 12.5K Damage!",
-      "link": "https://www.youtube.com/watch?v=vVI46_41QwM",
-      "videoId": "vVI46_41QwM",
-      "published": "2026-10-11T14:24:22+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/vVI46_41QwM/hqdefault.jpg"
     }
   ]
 }
