@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-17T23:26:22.371504+00:00",
+  "updatedAt": "2026-10-18T11:44:14.424315+00:00",
   "videos": [
+    {
+      "title": "FV215b 183 WOT - 8628 Damage!",
+      "link": "https://www.youtube.com/shorts/xLdx15TH9Z0",
+      "videoId": "xLdx15TH9Z0",
+      "published": "2026-10-18T10:38:21+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/xLdx15TH9Z0/hqdefault.jpg"
+    },
     {
       "title": "Jg Pz E 100 WOT - 8778 Damage!",
       "link": "https://www.youtube.com/shorts/YpuS8UrzjbQ",
@@ -77,13 +84,6 @@
       "videoId": "Dtie4nKrxR8",
       "published": "2026-10-12T08:10:07+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Dtie4nKrxR8/hqdefault.jpg"
-    },
-    {
-      "title": "WZ 111 5A in Pearl River WOT  - 10K Damage!",
-      "link": "https://www.youtube.com/watch?v=ze64echJ7Os",
-      "videoId": "ze64echJ7Os",
-      "published": "2026-10-11T18:38:03+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/ze64echJ7Os/hqdefault.jpg"
     }
   ]
 }
