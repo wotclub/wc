@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-19T11:16:41.056856+00:00",
+  "updatedAt": "2026-10-19T17:32:37.702703+00:00",
   "videos": [
+    {
+      "title": "Obj. 268 WOT - 10196 Damage!",
+      "link": "https://www.youtube.com/shorts/ClUufdez8Ls",
+      "videoId": "ClUufdez8Ls",
+      "published": "2026-10-19T13:57:06+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/ClUufdez8Ls/hqdefault.jpg"
+    },
     {
       "title": "FV215b 183 WOT - 8628 Damage!",
       "link": "https://www.youtube.com/shorts/xLdx15TH9Z0",
@@ -77,13 +84,6 @@
       "videoId": "TPNzk_AP33Q",
       "published": "2026-10-12T11:04:05+00:00",
       "thumbnail": "https://i.ytimg.com/vi/TPNzk_AP33Q/hqdefault.jpg"
-    },
-    {
-      "title": "Black Rock WOT - 10138 Damage!",
-      "link": "https://www.youtube.com/shorts/Dtie4nKrxR8",
-      "videoId": "Dtie4nKrxR8",
-      "published": "2026-10-12T08:10:07+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Dtie4nKrxR8/hqdefault.jpg"
     }
   ]
 }
