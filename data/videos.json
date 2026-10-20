@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-20T10:25:47.161601+00:00",
+  "updatedAt": "2026-10-20T15:22:27.838704+00:00",
   "videos": [
+    {
+      "title": "T110E3 WOT - 8746 Damage and 16240 Block!",
+      "link": "https://www.youtube.com/shorts/ffuFyhJO-I0",
+      "videoId": "ffuFyhJO-I0",
+      "published": "2026-10-20T13:01:28+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/ffuFyhJO-I0/hqdefault.jpg"
+    },
     {
       "title": "Obj. 268 WOT - 10196 Damage!",
       "link": "https://www.youtube.com/shorts/ClUufdez8Ls",
@@ -77,13 +84,6 @@
       "videoId": "NhwaFI2UorM",
       "published": "2026-10-12T14:05:26+00:00",
       "thumbnail": "https://i.ytimg.com/vi/NhwaFI2UorM/hqdefault.jpg"
-    },
-    {
-      "title": "FV4005 in Prokhorovka WOT  - 10K Damage!",
-      "link": "https://www.youtube.com/watch?v=TPNzk_AP33Q",
-      "videoId": "TPNzk_AP33Q",
-      "published": "2026-10-12T11:04:05+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/TPNzk_AP33Q/hqdefault.jpg"
     }
   ]
 }
