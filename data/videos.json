@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-24T09:32:12.169746+00:00",
+  "updatedAt": "2026-10-24T13:36:01.046485+00:00",
   "videos": [
+    {
+      "title": "KV 2 WOT - 5240 Damage!",
+      "link": "https://www.youtube.com/shorts/wUYZDKHSeA0",
+      "videoId": "wUYZDKHSeA0",
+      "published": "2026-10-24T11:35:11+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/wUYZDKHSeA0/hqdefault.jpg"
+    },
     {
       "title": "T49 WOT - 8206 Damage!",
       "link": "https://www.youtube.com/shorts/JtZjC2bUE-w",
@@ -77,13 +84,6 @@
       "videoId": "ywAhG3KrN10",
       "published": "2026-10-13T11:08:31+00:00",
       "thumbnail": "https://i.ytimg.com/vi/ywAhG3KrN10/hqdefault.jpg"
-    },
-    {
-      "title": "Phönix WOT - 9467 Damage!",
-      "link": "https://www.youtube.com/shorts/hOEciqiznaI",
-      "videoId": "hOEciqiznaI",
-      "published": "2026-10-13T07:29:59+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/hOEciqiznaI/hqdefault.jpg"
     }
   ]
 }
