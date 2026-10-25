@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-25T10:09:29.758379+00:00",
+  "updatedAt": "2026-10-25T14:21:58.601199+00:00",
   "videos": [
+    {
+      "title": "WZ 219 in Safe Haven WOT - 10.8K Damage!",
+      "link": "https://www.youtube.com/watch?v=N-n-iURJpwI",
+      "videoId": "N-n-iURJpwI",
+      "published": "2026-10-25T12:02:31+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/N-n-iURJpwI/hqdefault.jpg"
+    },
+    {
+      "title": "FV215b 183 WOT - 8344 Damage!",
+      "link": "https://www.youtube.com/shorts/RPRqclKQX7o",
+      "videoId": "RPRqclKQX7o",
+      "published": "2026-10-25T10:27:47+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/RPRqclKQX7o/hqdefault.jpg"
+    },
     {
       "title": "KV 2 WOT - 5240 Damage!",
       "link": "https://www.youtube.com/shorts/wUYZDKHSeA0",
@@ -70,20 +84,6 @@
       "videoId": "xRt0LyTKY28",
       "published": "2026-10-14T10:47:27+00:00",
       "thumbnail": "https://i.ytimg.com/vi/xRt0LyTKY28/hqdefault.jpg"
-    },
-    {
-      "title": "E 100 in Lauerberg WOT  - 9.5K Damage!",
-      "link": "https://www.youtube.com/watch?v=NAzVCH50syk",
-      "videoId": "NAzVCH50syk",
-      "published": "2026-10-13T16:02:54+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/NAzVCH50syk/hqdefault.jpg"
-    },
-    {
-      "title": "Object 268/4 WOT - 11176 Damage!",
-      "link": "https://www.youtube.com/shorts/ywAhG3KrN10",
-      "videoId": "ywAhG3KrN10",
-      "published": "2026-10-13T11:08:31+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/ywAhG3KrN10/hqdefault.jpg"
     }
   ]
 }
