@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-27T14:55:17.022645+00:00",
+  "updatedAt": "2026-10-27T20:05:22.927301+00:00",
   "videos": [
+    {
+      "title": "T803 in El Halluf WOT - 11.5K Damage!",
+      "link": "https://www.youtube.com/watch?v=3hrufSCvYrI",
+      "videoId": "3hrufSCvYrI",
+      "published": "2026-10-27T16:20:00+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/3hrufSCvYrI/hqdefault.jpg"
+    },
     {
       "title": "FV4005 WOT - 10235 Damage!",
       "link": "https://www.youtube.com/shorts/lvSsb_MQhYc",
@@ -77,13 +84,6 @@
       "videoId": "g6GbU2e4sTA",
       "published": "2026-10-16T12:39:35+00:00",
       "thumbnail": "https://i.ytimg.com/vi/g6GbU2e4sTA/hqdefault.jpg"
-    },
-    {
-      "title": "FV4005 WOT - 9019 Damage!",
-      "link": "https://www.youtube.com/shorts/Yc4qzcnIV60",
-      "videoId": "Yc4qzcnIV60",
-      "published": "2026-10-15T10:00:51+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Yc4qzcnIV60/hqdefault.jpg"
     }
   ]
 }
