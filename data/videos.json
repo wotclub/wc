@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-27T08:22:37.826259+00:00",
+  "updatedAt": "2026-10-27T14:55:17.022645+00:00",
   "videos": [
+    {
+      "title": "FV4005 WOT - 10235 Damage!",
+      "link": "https://www.youtube.com/shorts/lvSsb_MQhYc",
+      "videoId": "lvSsb_MQhYc",
+      "published": "2026-10-27T12:18:29+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/lvSsb_MQhYc/hqdefault.jpg"
+    },
     {
       "title": "FV215b 183 WOT - 9571 Damage!",
       "link": "https://www.youtube.com/shorts/jaI-q7PNpKI",
@@ -77,13 +84,6 @@
       "videoId": "Yc4qzcnIV60",
       "published": "2026-10-15T10:00:51+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Yc4qzcnIV60/hqdefault.jpg"
-    },
-    {
-      "title": "XM69 Hacker in Mountain Pass WOT - 11K Damage!",
-      "link": "https://www.youtube.com/watch?v=218eljaA6Mo",
-      "videoId": "218eljaA6Mo",
-      "published": "2026-10-14T13:41:00+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/218eljaA6Mo/hqdefault.jpg"
     }
   ]
 }
