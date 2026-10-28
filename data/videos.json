@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-10-28T08:59:31.600994+00:00",
+  "updatedAt": "2026-10-28T16:01:59.252983+00:00",
   "videos": [
+    {
+      "title": "Gorilla in Highway WOT - 12.2K Damage!",
+      "link": "https://www.youtube.com/watch?v=SAEqMEvupdg",
+      "videoId": "SAEqMEvupdg",
+      "published": "2026-10-28T14:18:52+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/SAEqMEvupdg/hqdefault.jpg"
+    },
+    {
+      "title": "FV4005 WOT - 9026 Damage!",
+      "link": "https://www.youtube.com/shorts/dvL_p3aY_gU",
+      "videoId": "dvL_p3aY_gU",
+      "published": "2026-10-28T13:39:57+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/dvL_p3aY_gU/hqdefault.jpg"
+    },
     {
       "title": "T803 in El Halluf WOT - 11.5K Damage!",
       "link": "https://www.youtube.com/watch?v=3hrufSCvYrI",
@@ -70,20 +84,6 @@
       "videoId": "xLdx15TH9Z0",
       "published": "2026-10-18T10:38:21+00:00",
       "thumbnail": "https://i.ytimg.com/vi/xLdx15TH9Z0/hqdefault.jpg"
-    },
-    {
-      "title": "Jg Pz E 100 WOT - 8778 Damage!",
-      "link": "https://www.youtube.com/shorts/YpuS8UrzjbQ",
-      "videoId": "YpuS8UrzjbQ",
-      "published": "2026-10-17T09:01:04+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/YpuS8UrzjbQ/hqdefault.jpg"
-    },
-    {
-      "title": "FV4005 WOT - 11919 Damage!",
-      "link": "https://www.youtube.com/shorts/g6GbU2e4sTA",
-      "videoId": "g6GbU2e4sTA",
-      "published": "2026-10-16T12:39:35+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/g6GbU2e4sTA/hqdefault.jpg"
     }
   ]
 }
