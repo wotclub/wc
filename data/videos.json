@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-29T14:18:42.877294+00:00",
+  "updatedAt": "2026-10-29T19:52:08.954294+00:00",
   "videos": [
+    {
+      "title": "FV215b 183 WOT - 11307 Damage!",
+      "link": "https://www.youtube.com/shorts/B5fBOUwU9Z0",
+      "videoId": "B5fBOUwU9Z0",
+      "published": "2026-10-29T15:17:01+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/B5fBOUwU9Z0/hqdefault.jpg"
+    },
     {
       "title": "Gorilla in Highway WOT - 12.2K Damage!",
       "link": "https://www.youtube.com/watch?v=SAEqMEvupdg",
@@ -77,13 +84,6 @@
       "videoId": "ClUufdez8Ls",
       "published": "2026-10-19T13:57:06+00:00",
       "thumbnail": "https://i.ytimg.com/vi/ClUufdez8Ls/hqdefault.jpg"
-    },
-    {
-      "title": "FV215b 183 WOT - 8628 Damage!",
-      "link": "https://www.youtube.com/shorts/xLdx15TH9Z0",
-      "videoId": "xLdx15TH9Z0",
-      "published": "2026-10-18T10:38:21+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/xLdx15TH9Z0/hqdefault.jpg"
     }
   ]
 }
