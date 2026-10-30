@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-30T12:55:31.301090+00:00",
+  "updatedAt": "2026-10-30T18:37:18.060538+00:00",
   "videos": [
+    {
+      "title": "WT auf Pz IV WOT - 7435 Damage!",
+      "link": "https://www.youtube.com/shorts/qPhaoXDmp-I",
+      "videoId": "qPhaoXDmp-I",
+      "published": "2026-10-30T15:54:39+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/qPhaoXDmp-I/hqdefault.jpg"
+    },
     {
       "title": "FV215b 183 WOT - 11307 Damage!",
       "link": "https://www.youtube.com/shorts/B5fBOUwU9Z0",
@@ -77,13 +84,6 @@
       "videoId": "ffuFyhJO-I0",
       "published": "2026-10-20T13:01:28+00:00",
       "thumbnail": "https://i.ytimg.com/vi/ffuFyhJO-I0/hqdefault.jpg"
-    },
-    {
-      "title": "Obj. 268 WOT - 10196 Damage!",
-      "link": "https://www.youtube.com/shorts/ClUufdez8Ls",
-      "videoId": "ClUufdez8Ls",
-      "published": "2026-10-19T13:57:06+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/ClUufdez8Ls/hqdefault.jpg"
     }
   ]
 }
