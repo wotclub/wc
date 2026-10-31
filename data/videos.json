@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-31T08:25:36.245587+00:00",
+  "updatedAt": "2026-10-31T14:46:03.485086+00:00",
   "videos": [
+    {
+      "title": "FV215b 183 WOT - 10740 Damage!",
+      "link": "https://www.youtube.com/shorts/RWi5HsSaBaE",
+      "videoId": "RWi5HsSaBaE",
+      "published": "2026-10-31T14:13:24+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/RWi5HsSaBaE/hqdefault.jpg"
+    },
     {
       "title": "WT auf Pz IV WOT - 7435 Damage!",
       "link": "https://www.youtube.com/shorts/qPhaoXDmp-I",
@@ -77,13 +84,6 @@
       "videoId": "JtZjC2bUE-w",
       "published": "2026-10-22T16:17:47+00:00",
       "thumbnail": "https://i.ytimg.com/vi/JtZjC2bUE-w/hqdefault.jpg"
-    },
-    {
-      "title": "T110E3 WOT - 8746 Damage and 16240 Block!",
-      "link": "https://www.youtube.com/shorts/ffuFyhJO-I0",
-      "videoId": "ffuFyhJO-I0",
-      "published": "2026-10-20T13:01:28+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/ffuFyhJO-I0/hqdefault.jpg"
     }
   ]
 }
