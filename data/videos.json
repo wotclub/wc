@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-10-31T18:49:20.756060+00:00",
+  "updatedAt": "2026-10-31T22:29:04.200171+00:00",
   "videos": [
+    {
+      "title": "Bzyg in Pilsen WOT - 11.5K Damage!",
+      "link": "https://www.youtube.com/watch?v=fmwlu9Jj8YI",
+      "videoId": "fmwlu9Jj8YI",
+      "published": "2026-10-31T21:11:37+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/fmwlu9Jj8YI/hqdefault.jpg"
+    },
     {
       "title": "FV215b 183 WOT - 10740 Damage!",
       "link": "https://www.youtube.com/shorts/RWi5HsSaBaE",
@@ -77,13 +84,6 @@
       "videoId": "wUYZDKHSeA0",
       "published": "2026-10-24T11:35:11+00:00",
       "thumbnail": "https://i.ytimg.com/vi/wUYZDKHSeA0/hqdefault.jpg"
-    },
-    {
-      "title": "T49 WOT - 8206 Damage!",
-      "link": "https://www.youtube.com/shorts/JtZjC2bUE-w",
-      "videoId": "JtZjC2bUE-w",
-      "published": "2026-10-22T16:17:47+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/JtZjC2bUE-w/hqdefault.jpg"
     }
   ]
 }
