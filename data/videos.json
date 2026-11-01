@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-01T19:39:45.221163+00:00",
+  "updatedAt": "2026-11-01T23:05:57.530936+00:00",
   "videos": [
+    {
+      "title": "FV4005 Stage II in Cliff WOT - 10.2K Damage!",
+      "link": "https://www.youtube.com/watch?v=tTTUJ5so2dM",
+      "videoId": "tTTUJ5so2dM",
+      "published": "2026-11-01T21:51:12+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/tTTUJ5so2dM/hqdefault.jpg"
+    },
     {
       "title": "FV4005 WOT - 10228 Damage!",
       "link": "https://www.youtube.com/shorts/oRe5L8IRIL4",
@@ -77,13 +84,6 @@
       "videoId": "N-n-iURJpwI",
       "published": "2026-10-25T12:02:31+00:00",
       "thumbnail": "https://i.ytimg.com/vi/N-n-iURJpwI/hqdefault.jpg"
-    },
-    {
-      "title": "FV215b 183 WOT - 8344 Damage!",
-      "link": "https://www.youtube.com/shorts/RPRqclKQX7o",
-      "videoId": "RPRqclKQX7o",
-      "published": "2026-10-25T10:27:47+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/RPRqclKQX7o/hqdefault.jpg"
     }
   ]
 }
