@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-01T08:09:59.940632+00:00",
+  "updatedAt": "2026-11-01T15:07:34.833635+00:00",
   "videos": [
+    {
+      "title": "FV4005 WOT - 10228 Damage!",
+      "link": "https://www.youtube.com/shorts/oRe5L8IRIL4",
+      "videoId": "oRe5L8IRIL4",
+      "published": "2026-11-01T14:49:14+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/oRe5L8IRIL4/hqdefault.jpg"
+    },
     {
       "title": "Bzyg in Pilsen WOT - 11.5K Damage!",
       "link": "https://www.youtube.com/watch?v=fmwlu9Jj8YI",
@@ -77,13 +84,6 @@
       "videoId": "RPRqclKQX7o",
       "published": "2026-10-25T10:27:47+00:00",
       "thumbnail": "https://i.ytimg.com/vi/RPRqclKQX7o/hqdefault.jpg"
-    },
-    {
-      "title": "KV 2 WOT - 5240 Damage!",
-      "link": "https://www.youtube.com/shorts/wUYZDKHSeA0",
-      "videoId": "wUYZDKHSeA0",
-      "published": "2026-10-24T11:35:11+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/wUYZDKHSeA0/hqdefault.jpg"
     }
   ]
 }
