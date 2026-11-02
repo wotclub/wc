@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-02T09:58:27.466802+00:00",
+  "updatedAt": "2026-11-02T20:21:24.744302+00:00",
   "videos": [
+    {
+      "title": "Jg Pz E 100 WOT - 11587 Damage!",
+      "link": "https://www.youtube.com/shorts/72AHnJHPFhU",
+      "videoId": "72AHnJHPFhU",
+      "published": "2026-11-02T17:41:08+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/72AHnJHPFhU/hqdefault.jpg"
+    },
     {
       "title": "FV4005 Stage II in Cliff WOT - 10.2K Damage!",
       "link": "https://www.youtube.com/watch?v=tTTUJ5so2dM",
@@ -77,13 +84,6 @@
       "videoId": "jaI-q7PNpKI",
       "published": "2026-10-26T14:11:09+00:00",
       "thumbnail": "https://i.ytimg.com/vi/jaI-q7PNpKI/hqdefault.jpg"
-    },
-    {
-      "title": "WZ 219 in Safe Haven WOT - 10.8K Damage!",
-      "link": "https://www.youtube.com/watch?v=N-n-iURJpwI",
-      "videoId": "N-n-iURJpwI",
-      "published": "2026-10-25T12:02:31+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/N-n-iURJpwI/hqdefault.jpg"
     }
   ]
 }
