@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-03T10:05:28.482082+00:00",
+  "updatedAt": "2026-11-03T17:50:36.429679+00:00",
   "videos": [
+    {
+      "title": "Obj. 268 WOT - 10016 Damage!",
+      "link": "https://www.youtube.com/shorts/hlOtGPSb_0U",
+      "videoId": "hlOtGPSb_0U",
+      "published": "2026-11-03T13:59:58+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/hlOtGPSb_0U/hqdefault.jpg"
+    },
     {
       "title": "Skoda T 56 in Highway WOT - 8.6K Damage!",
       "link": "https://www.youtube.com/watch?v=aLZlW4ZJARI",
@@ -77,13 +84,6 @@
       "videoId": "3hrufSCvYrI",
       "published": "2026-10-27T16:20:00+00:00",
       "thumbnail": "https://i.ytimg.com/vi/3hrufSCvYrI/hqdefault.jpg"
-    },
-    {
-      "title": "FV4005 WOT - 10235 Damage!",
-      "link": "https://www.youtube.com/shorts/lvSsb_MQhYc",
-      "videoId": "lvSsb_MQhYc",
-      "published": "2026-10-27T12:18:29+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/lvSsb_MQhYc/hqdefault.jpg"
     }
   ]
 }
