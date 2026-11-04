@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-04T03:18:42.347584+00:00",
+  "updatedAt": "2026-11-04T11:35:31.318748+00:00",
   "videos": [
+    {
+      "title": "Fossa VM 68 in Prokhorovka WOT - 9.9K Damage!",
+      "link": "https://www.youtube.com/watch?v=Uu065U5YyXs",
+      "videoId": "Uu065U5YyXs",
+      "published": "2026-11-04T11:19:42+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Uu065U5YyXs/hqdefault.jpg"
+    },
     {
       "title": "Obj. 268 WOT - 10016 Damage!",
       "link": "https://www.youtube.com/shorts/hlOtGPSb_0U",
@@ -77,13 +84,6 @@
       "videoId": "dvL_p3aY_gU",
       "published": "2026-10-28T13:39:57+00:00",
       "thumbnail": "https://i.ytimg.com/vi/dvL_p3aY_gU/hqdefault.jpg"
-    },
-    {
-      "title": "T803 in El Halluf WOT - 11.5K Damage!",
-      "link": "https://www.youtube.com/watch?v=3hrufSCvYrI",
-      "videoId": "3hrufSCvYrI",
-      "published": "2026-10-27T16:20:00+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/3hrufSCvYrI/hqdefault.jpg"
     }
   ]
 }
