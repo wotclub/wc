@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-04T11:35:31.318748+00:00",
+  "updatedAt": "2026-11-04T18:52:21.958666+00:00",
   "videos": [
+    {
+      "title": "FV215b 183 WOT - 7517 Damage!",
+      "link": "https://www.youtube.com/shorts/V-e0n9DY1RU",
+      "videoId": "V-e0n9DY1RU",
+      "published": "2026-11-04T12:38:39+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/V-e0n9DY1RU/hqdefault.jpg"
+    },
     {
       "title": "Fossa VM 68 in Prokhorovka WOT - 9.9K Damage!",
       "link": "https://www.youtube.com/watch?v=Uu065U5YyXs",
@@ -77,13 +84,6 @@
       "videoId": "SAEqMEvupdg",
       "published": "2026-10-28T14:18:52+00:00",
       "thumbnail": "https://i.ytimg.com/vi/SAEqMEvupdg/hqdefault.jpg"
-    },
-    {
-      "title": "FV4005 WOT - 9026 Damage!",
-      "link": "https://www.youtube.com/shorts/dvL_p3aY_gU",
-      "videoId": "dvL_p3aY_gU",
-      "published": "2026-10-28T13:39:57+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/dvL_p3aY_gU/hqdefault.jpg"
     }
   ]
 }
