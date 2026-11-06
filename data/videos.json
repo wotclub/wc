@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-06T09:54:16.075642+00:00",
+  "updatedAt": "2026-11-06T17:29:18.858217+00:00",
   "videos": [
+    {
+      "title": "Sheridan WOT - 7349 Damage!",
+      "link": "https://www.youtube.com/shorts/eDRY0BpJ-m4",
+      "videoId": "eDRY0BpJ-m4",
+      "published": "2026-11-06T15:19:44+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/eDRY0BpJ-m4/hqdefault.jpg"
+    },
     {
       "title": "FV215b 183 WOT - 10089 Damage!",
       "link": "https://www.youtube.com/shorts/jFDw5_Kq3k0",
@@ -77,13 +84,6 @@
       "videoId": "qPhaoXDmp-I",
       "published": "2026-10-30T15:54:39+00:00",
       "thumbnail": "https://i.ytimg.com/vi/qPhaoXDmp-I/hqdefault.jpg"
-    },
-    {
-      "title": "FV215b 183 WOT - 11307 Damage!",
-      "link": "https://www.youtube.com/shorts/B5fBOUwU9Z0",
-      "videoId": "B5fBOUwU9Z0",
-      "published": "2026-10-29T15:17:01+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/B5fBOUwU9Z0/hqdefault.jpg"
     }
   ]
 }
