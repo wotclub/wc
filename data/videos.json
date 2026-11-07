@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-06T17:29:18.858217+00:00",
+  "updatedAt": "2026-11-07T09:15:03.318725+00:00",
   "videos": [
+    {
+      "title": "Taschenratte in Mountain Pass WOT - 13.6K Damage!",
+      "link": "https://www.youtube.com/watch?v=RgIWv83yYQ8",
+      "videoId": "RgIWv83yYQ8",
+      "published": "2026-11-06T20:29:48+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/RgIWv83yYQ8/hqdefault.jpg"
+    },
     {
       "title": "Sheridan WOT - 7349 Damage!",
       "link": "https://www.youtube.com/shorts/eDRY0BpJ-m4",
@@ -77,13 +84,6 @@
       "videoId": "RWi5HsSaBaE",
       "published": "2026-10-31T14:13:24+00:00",
       "thumbnail": "https://i.ytimg.com/vi/RWi5HsSaBaE/hqdefault.jpg"
-    },
-    {
-      "title": "WT auf Pz IV WOT - 7435 Damage!",
-      "link": "https://www.youtube.com/shorts/qPhaoXDmp-I",
-      "videoId": "qPhaoXDmp-I",
-      "published": "2026-10-30T15:54:39+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/qPhaoXDmp-I/hqdefault.jpg"
     }
   ]
 }
