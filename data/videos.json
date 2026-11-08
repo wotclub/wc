@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-08T09:28:58.199298+00:00",
+  "updatedAt": "2026-11-08T16:20:31.492746+00:00",
   "videos": [
+    {
+      "title": "FV4005 WOT - 9796 Damage!",
+      "link": "https://www.youtube.com/shorts/lsB-dMrvqH0",
+      "videoId": "lsB-dMrvqH0",
+      "published": "2026-11-08T10:11:51+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/lsB-dMrvqH0/hqdefault.jpg"
+    },
     {
       "title": "Taschenratte in Mountain Pass WOT - 13.6K Damage!",
       "link": "https://www.youtube.com/watch?v=RgIWv83yYQ8",
@@ -77,13 +84,6 @@
       "videoId": "fmwlu9Jj8YI",
       "published": "2026-10-31T21:11:37+00:00",
       "thumbnail": "https://i.ytimg.com/vi/fmwlu9Jj8YI/hqdefault.jpg"
-    },
-    {
-      "title": "FV215b 183 WOT - 10740 Damage!",
-      "link": "https://www.youtube.com/shorts/RWi5HsSaBaE",
-      "videoId": "RWi5HsSaBaE",
-      "published": "2026-10-31T14:13:24+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/RWi5HsSaBaE/hqdefault.jpg"
     }
   ]
 }
