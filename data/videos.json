@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-08T20:45:58.999650+00:00",
+  "updatedAt": "2026-11-09T00:06:12.588733+00:00",
   "videos": [
+    {
+      "title": "B C 25 t in Studzianki WOT - 9.8K Damage!",
+      "link": "https://www.youtube.com/watch?v=zNqZKjt4fx8",
+      "videoId": "zNqZKjt4fx8",
+      "published": "2026-11-08T20:52:53+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/zNqZKjt4fx8/hqdefault.jpg"
+    },
     {
       "title": "FV4005 WOT - 9796 Damage!",
       "link": "https://www.youtube.com/shorts/lsB-dMrvqH0",
@@ -77,13 +84,6 @@
       "videoId": "oRe5L8IRIL4",
       "published": "2026-11-01T14:49:14+00:00",
       "thumbnail": "https://i.ytimg.com/vi/oRe5L8IRIL4/hqdefault.jpg"
-    },
-    {
-      "title": "Bzyg in Pilsen WOT - 11.5K Damage!",
-      "link": "https://www.youtube.com/watch?v=fmwlu9Jj8YI",
-      "videoId": "fmwlu9Jj8YI",
-      "published": "2026-10-31T21:11:37+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/fmwlu9Jj8YI/hqdefault.jpg"
     }
   ]
 }
