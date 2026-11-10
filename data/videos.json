@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-11-09T16:52:31.897727+00:00",
+  "updatedAt": "2026-11-10T15:48:52.449602+00:00",
   "videos": [
+    {
+      "title": "Jagdpanzer E 100 in Ghost Town WOT - 11,1K Damage!",
+      "link": "https://www.youtube.com/watch?v=Uuk_NnDjRtc",
+      "videoId": "Uuk_NnDjRtc",
+      "published": "2026-11-10T14:54:28+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Uuk_NnDjRtc/hqdefault.jpg"
+    },
+    {
+      "title": "T92 HMC WOT - 6037 Damage!",
+      "link": "https://www.youtube.com/shorts/tBT5T4YfUnc",
+      "videoId": "tBT5T4YfUnc",
+      "published": "2026-11-10T11:09:05+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/tBT5T4YfUnc/hqdefault.jpg"
+    },
     {
       "title": "B C 25 t in Studzianki WOT - 9.8K Damage!",
       "link": "https://www.youtube.com/watch?v=zNqZKjt4fx8",
@@ -70,20 +84,6 @@
       "videoId": "72AHnJHPFhU",
       "published": "2026-11-02T17:41:08+00:00",
       "thumbnail": "https://i.ytimg.com/vi/72AHnJHPFhU/hqdefault.jpg"
-    },
-    {
-      "title": "FV4005 Stage II in Cliff WOT - 10.2K Damage!",
-      "link": "https://www.youtube.com/watch?v=tTTUJ5so2dM",
-      "videoId": "tTTUJ5so2dM",
-      "published": "2026-11-01T21:51:12+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/tTTUJ5so2dM/hqdefault.jpg"
-    },
-    {
-      "title": "FV4005 WOT - 10228 Damage!",
-      "link": "https://www.youtube.com/shorts/oRe5L8IRIL4",
-      "videoId": "oRe5L8IRIL4",
-      "published": "2026-11-01T14:49:14+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/oRe5L8IRIL4/hqdefault.jpg"
     }
   ]
 }
