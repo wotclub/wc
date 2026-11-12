@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-11T23:43:08.556302+00:00",
+  "updatedAt": "2026-11-12T13:17:09.295639+00:00",
   "videos": [
+    {
+      "title": "FV4005 WOT - 11011 Damage!",
+      "link": "https://www.youtube.com/shorts/Hc19EivpijQ",
+      "videoId": "Hc19EivpijQ",
+      "published": "2026-11-12T10:48:56+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/Hc19EivpijQ/hqdefault.jpg"
+    },
     {
       "title": "Jagdpanzer E 100 in Ghost Town WOT - 11,1K Damage!",
       "link": "https://www.youtube.com/watch?v=Uuk_NnDjRtc",
@@ -77,13 +84,6 @@
       "videoId": "aLZlW4ZJARI",
       "published": "2026-11-02T23:00:38+00:00",
       "thumbnail": "https://i.ytimg.com/vi/aLZlW4ZJARI/hqdefault.jpg"
-    },
-    {
-      "title": "Jg Pz E 100 WOT - 11587 Damage!",
-      "link": "https://www.youtube.com/shorts/72AHnJHPFhU",
-      "videoId": "72AHnJHPFhU",
-      "published": "2026-11-02T17:41:08+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/72AHnJHPFhU/hqdefault.jpg"
     }
   ]
 }
