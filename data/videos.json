@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-13T09:31:04.499330+00:00",
+  "updatedAt": "2026-11-13T17:22:55.859011+00:00",
   "videos": [
+    {
+      "title": "Jg Pz E 100 WOT - 8649 Damage!",
+      "link": "https://www.youtube.com/shorts/PcMspkS2fMY",
+      "videoId": "PcMspkS2fMY",
+      "published": "2026-11-13T12:20:13+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/PcMspkS2fMY/hqdefault.jpg"
+    },
     {
       "title": "FV4005 WOT - 11011 Damage!",
       "link": "https://www.youtube.com/shorts/Hc19EivpijQ",
@@ -77,13 +84,6 @@
       "videoId": "hlOtGPSb_0U",
       "published": "2026-11-03T13:59:58+00:00",
       "thumbnail": "https://i.ytimg.com/vi/hlOtGPSb_0U/hqdefault.jpg"
-    },
-    {
-      "title": "Skoda T 56 in Highway WOT - 8.6K Damage!",
-      "link": "https://www.youtube.com/watch?v=aLZlW4ZJARI",
-      "videoId": "aLZlW4ZJARI",
-      "published": "2026-11-02T23:00:38+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/aLZlW4ZJARI/hqdefault.jpg"
     }
   ]
 }
