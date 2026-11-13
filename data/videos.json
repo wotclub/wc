@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-13T17:22:55.859011+00:00",
+  "updatedAt": "2026-11-13T22:53:12.133201+00:00",
   "videos": [
+    {
+      "title": "WZ 111 QL in Himmelsdorf WOT- 10,2K Damage!",
+      "link": "https://www.youtube.com/watch?v=xvRYuqaemQ8",
+      "videoId": "xvRYuqaemQ8",
+      "published": "2026-11-13T18:22:55+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/xvRYuqaemQ8/hqdefault.jpg"
+    },
     {
       "title": "Jg Pz E 100 WOT - 8649 Damage!",
       "link": "https://www.youtube.com/shorts/PcMspkS2fMY",
@@ -77,13 +84,6 @@
       "videoId": "Uu065U5YyXs",
       "published": "2026-11-04T11:19:42+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Uu065U5YyXs/hqdefault.jpg"
-    },
-    {
-      "title": "Obj. 268 WOT - 10016 Damage!",
-      "link": "https://www.youtube.com/shorts/hlOtGPSb_0U",
-      "videoId": "hlOtGPSb_0U",
-      "published": "2026-11-03T13:59:58+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/hlOtGPSb_0U/hqdefault.jpg"
     }
   ]
 }
