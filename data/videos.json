@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-14T10:31:15.122448+00:00",
+  "updatedAt": "2026-11-14T16:43:33.099468+00:00",
   "videos": [
+    {
+      "title": "Ashbringer in Westfield WOT - 11,9K Damage!",
+      "link": "https://www.youtube.com/watch?v=0rbsl3a_PwE",
+      "videoId": "0rbsl3a_PwE",
+      "published": "2026-11-14T15:35:06+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/0rbsl3a_PwE/hqdefault.jpg"
+    },
     {
       "title": "WZ 111 QL in Himmelsdorf WOT- 10,2K Damage!",
       "link": "https://www.youtube.com/watch?v=xvRYuqaemQ8",
@@ -77,13 +84,6 @@
       "videoId": "V-e0n9DY1RU",
       "published": "2026-11-04T12:38:39+00:00",
       "thumbnail": "https://i.ytimg.com/vi/V-e0n9DY1RU/hqdefault.jpg"
-    },
-    {
-      "title": "Fossa VM 68 in Prokhorovka WOT - 9.9K Damage!",
-      "link": "https://www.youtube.com/watch?v=Uu065U5YyXs",
-      "videoId": "Uu065U5YyXs",
-      "published": "2026-11-04T11:19:42+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Uu065U5YyXs/hqdefault.jpg"
     }
   ]
 }
