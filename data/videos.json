@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-14T20:56:39.514128+00:00",
+  "updatedAt": "2026-11-15T15:39:14.174897+00:00",
   "videos": [
+    {
+      "title": "FV4005 Stage II WOT - 10722 Damage!",
+      "link": "https://www.youtube.com/shorts/2flbJ8apruE",
+      "videoId": "2flbJ8apruE",
+      "published": "2026-11-15T10:43:03+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/2flbJ8apruE/hqdefault.jpg"
+    },
     {
       "title": "Ashbringer in Westfield WOT - 11,9K Damage!",
       "link": "https://www.youtube.com/watch?v=0rbsl3a_PwE",
@@ -77,13 +84,6 @@
       "videoId": "jFDw5_Kq3k0",
       "published": "2026-11-05T13:46:09+00:00",
       "thumbnail": "https://i.ytimg.com/vi/jFDw5_Kq3k0/hqdefault.jpg"
-    },
-    {
-      "title": "FV215b 183 WOT - 7517 Damage!",
-      "link": "https://www.youtube.com/shorts/V-e0n9DY1RU",
-      "videoId": "V-e0n9DY1RU",
-      "published": "2026-11-04T12:38:39+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/V-e0n9DY1RU/hqdefault.jpg"
     }
   ]
 }
