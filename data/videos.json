@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-15T15:39:14.174897+00:00",
+  "updatedAt": "2026-11-15T20:35:03.966130+00:00",
   "videos": [
+    {
+      "title": "Ares 90 in Outpost WOT - 11,8K Damage!",
+      "link": "https://www.youtube.com/watch?v=77VFG61s5v8",
+      "videoId": "77VFG61s5v8",
+      "published": "2026-11-15T15:48:37+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/77VFG61s5v8/hqdefault.jpg"
+    },
     {
       "title": "FV4005 Stage II WOT - 10722 Damage!",
       "link": "https://www.youtube.com/shorts/2flbJ8apruE",
@@ -77,13 +84,6 @@
       "videoId": "eDRY0BpJ-m4",
       "published": "2026-11-06T15:19:44+00:00",
       "thumbnail": "https://i.ytimg.com/vi/eDRY0BpJ-m4/hqdefault.jpg"
-    },
-    {
-      "title": "FV215b 183 WOT - 10089 Damage!",
-      "link": "https://www.youtube.com/shorts/jFDw5_Kq3k0",
-      "videoId": "jFDw5_Kq3k0",
-      "published": "2026-11-05T13:46:09+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/jFDw5_Kq3k0/hqdefault.jpg"
     }
   ]
 }
