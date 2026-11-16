@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-11-15T20:35:03.966130+00:00",
+  "updatedAt": "2026-11-16T17:27:35.828728+00:00",
   "videos": [
+    {
+      "title": "Badger in Prokhorovka WOT - 10.4K Damage!",
+      "link": "https://www.youtube.com/watch?v=iBa_Gg96-Q4",
+      "videoId": "iBa_Gg96-Q4",
+      "published": "2026-11-16T13:32:15+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/iBa_Gg96-Q4/hqdefault.jpg"
+    },
+    {
+      "title": "СУ-130 ПМ WOT - 7900 Damage!",
+      "link": "https://www.youtube.com/shorts/vay6bQtN5Ks",
+      "videoId": "vay6bQtN5Ks",
+      "published": "2026-11-16T11:39:08+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/vay6bQtN5Ks/hqdefault.jpg"
+    },
     {
       "title": "Ares 90 in Outpost WOT - 11,8K Damage!",
       "link": "https://www.youtube.com/watch?v=77VFG61s5v8",
@@ -70,20 +84,6 @@
       "videoId": "lsB-dMrvqH0",
       "published": "2026-11-08T10:11:51+00:00",
       "thumbnail": "https://i.ytimg.com/vi/lsB-dMrvqH0/hqdefault.jpg"
-    },
-    {
-      "title": "Taschenratte in Mountain Pass WOT - 13.6K Damage!",
-      "link": "https://www.youtube.com/watch?v=RgIWv83yYQ8",
-      "videoId": "RgIWv83yYQ8",
-      "published": "2026-11-06T20:29:48+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/RgIWv83yYQ8/hqdefault.jpg"
-    },
-    {
-      "title": "Sheridan WOT - 7349 Damage!",
-      "link": "https://www.youtube.com/shorts/eDRY0BpJ-m4",
-      "videoId": "eDRY0BpJ-m4",
-      "published": "2026-11-06T15:19:44+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/eDRY0BpJ-m4/hqdefault.jpg"
     }
   ]
 }
