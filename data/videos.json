@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-11-17T09:12:26.678451+00:00",
+  "updatedAt": "2026-11-17T18:33:57.863408+00:00",
   "videos": [
+    {
+      "title": "Black Rock in Fjords WOT - 12.2K Damage!",
+      "link": "https://www.youtube.com/watch?v=yflbzs8L_6E",
+      "videoId": "yflbzs8L_6E",
+      "published": "2026-11-17T17:40:51+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/yflbzs8L_6E/hqdefault.jpg"
+    },
+    {
+      "title": "FV4005 Stage II WOT - 9220 Damage!",
+      "link": "https://www.youtube.com/shorts/rJxATmPVln4",
+      "videoId": "rJxATmPVln4",
+      "published": "2026-11-17T16:53:47+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/rJxATmPVln4/hqdefault.jpg"
+    },
     {
       "title": "Badger in Prokhorovka WOT - 10.4K Damage!",
       "link": "https://www.youtube.com/watch?v=iBa_Gg96-Q4",
@@ -70,20 +84,6 @@
       "videoId": "tBT5T4YfUnc",
       "published": "2026-11-10T11:09:05+00:00",
       "thumbnail": "https://i.ytimg.com/vi/tBT5T4YfUnc/hqdefault.jpg"
-    },
-    {
-      "title": "B C 25 t in Studzianki WOT - 9.8K Damage!",
-      "link": "https://www.youtube.com/watch?v=zNqZKjt4fx8",
-      "videoId": "zNqZKjt4fx8",
-      "published": "2026-11-08T20:52:53+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/zNqZKjt4fx8/hqdefault.jpg"
-    },
-    {
-      "title": "FV4005 WOT - 9796 Damage!",
-      "link": "https://www.youtube.com/shorts/lsB-dMrvqH0",
-      "videoId": "lsB-dMrvqH0",
-      "published": "2026-11-08T10:11:51+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/lsB-dMrvqH0/hqdefault.jpg"
     }
   ]
 }
