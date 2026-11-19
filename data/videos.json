@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-18T18:03:40.943513+00:00",
+  "updatedAt": "2026-11-19T00:22:01.258027+00:00",
   "videos": [
+    {
+      "title": "Type 5 Heavy in Fjords WOT - 10,7K Damage!",
+      "link": "https://www.youtube.com/watch?v=N0EhX8Lvqrg",
+      "videoId": "N0EhX8Lvqrg",
+      "published": "2026-11-18T19:54:12+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/N0EhX8Lvqrg/hqdefault.jpg"
+    },
     {
       "title": "Black Rock in Fjords WOT - 12.2K Damage!",
       "link": "https://www.youtube.com/watch?v=yflbzs8L_6E",
@@ -77,13 +84,6 @@
       "videoId": "Uuk_NnDjRtc",
       "published": "2026-11-10T14:54:28+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Uuk_NnDjRtc/hqdefault.jpg"
-    },
-    {
-      "title": "T92 HMC WOT - 6037 Damage!",
-      "link": "https://www.youtube.com/shorts/tBT5T4YfUnc",
-      "videoId": "tBT5T4YfUnc",
-      "published": "2026-11-10T11:09:05+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/tBT5T4YfUnc/hqdefault.jpg"
     }
   ]
 }
