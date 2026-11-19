@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-19T07:57:10.052557+00:00",
+  "updatedAt": "2026-11-19T17:21:59.835125+00:00",
   "videos": [
+    {
+      "title": "Jagdpanzer E 100 WOT - 10400 Damage!",
+      "link": "https://www.youtube.com/shorts/eO7x4_kgI88",
+      "videoId": "eO7x4_kgI88",
+      "published": "2026-11-19T14:53:39+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/eO7x4_kgI88/hqdefault.jpg"
+    },
     {
       "title": "Type 5 Heavy in Fjords WOT - 10,7K Damage!",
       "link": "https://www.youtube.com/watch?v=N0EhX8Lvqrg",
@@ -77,13 +84,6 @@
       "videoId": "Hc19EivpijQ",
       "published": "2026-11-12T10:48:56+00:00",
       "thumbnail": "https://i.ytimg.com/vi/Hc19EivpijQ/hqdefault.jpg"
-    },
-    {
-      "title": "Jagdpanzer E 100 in Ghost Town WOT - 11,1K Damage!",
-      "link": "https://www.youtube.com/watch?v=Uuk_NnDjRtc",
-      "videoId": "Uuk_NnDjRtc",
-      "published": "2026-11-10T14:54:28+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Uuk_NnDjRtc/hqdefault.jpg"
     }
   ]
 }
