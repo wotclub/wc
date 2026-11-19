@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-19T17:21:59.835125+00:00",
+  "updatedAt": "2026-11-19T23:50:56.013215+00:00",
   "videos": [
+    {
+      "title": "BZT 70 in Westfield WOT - 11.6K Damage!",
+      "link": "https://www.youtube.com/watch?v=UYafshq6h1M",
+      "videoId": "UYafshq6h1M",
+      "published": "2026-11-19T21:26:41+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/UYafshq6h1M/hqdefault.jpg"
+    },
     {
       "title": "Jagdpanzer E 100 WOT - 10400 Damage!",
       "link": "https://www.youtube.com/shorts/eO7x4_kgI88",
@@ -77,13 +84,6 @@
       "videoId": "PcMspkS2fMY",
       "published": "2026-11-13T12:20:13+00:00",
       "thumbnail": "https://i.ytimg.com/vi/PcMspkS2fMY/hqdefault.jpg"
-    },
-    {
-      "title": "FV4005 WOT - 11011 Damage!",
-      "link": "https://www.youtube.com/shorts/Hc19EivpijQ",
-      "videoId": "Hc19EivpijQ",
-      "published": "2026-11-12T10:48:56+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/Hc19EivpijQ/hqdefault.jpg"
     }
   ]
 }
