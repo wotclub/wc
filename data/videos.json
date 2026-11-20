@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-11-20T07:14:07.879906+00:00",
+  "updatedAt": "2026-11-20T16:10:17.927826+00:00",
   "videos": [
+    {
+      "title": "Jagdpanzer E 100 in Berlin WOT - 10.4K Damage!",
+      "link": "https://www.youtube.com/watch?v=wyLPG0weMNw",
+      "videoId": "wyLPG0weMNw",
+      "published": "2026-11-20T10:43:33+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/wyLPG0weMNw/hqdefault.jpg"
+    },
+    {
+      "title": "T110E4 WOT - 12426 Damage!",
+      "link": "https://www.youtube.com/shorts/dWMg5avXzqw",
+      "videoId": "dWMg5avXzqw",
+      "published": "2026-11-20T09:46:30+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/dWMg5avXzqw/hqdefault.jpg"
+    },
     {
       "title": "BZT 70 in Westfield WOT - 11.6K Damage!",
       "link": "https://www.youtube.com/watch?v=UYafshq6h1M",
@@ -70,20 +84,6 @@
       "videoId": "0rbsl3a_PwE",
       "published": "2026-11-14T15:35:06+00:00",
       "thumbnail": "https://i.ytimg.com/vi/0rbsl3a_PwE/hqdefault.jpg"
-    },
-    {
-      "title": "WZ 111 QL in Himmelsdorf WOT- 10,2K Damage!",
-      "link": "https://www.youtube.com/watch?v=xvRYuqaemQ8",
-      "videoId": "xvRYuqaemQ8",
-      "published": "2026-11-13T18:22:55+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/xvRYuqaemQ8/hqdefault.jpg"
-    },
-    {
-      "title": "Jg Pz E 100 WOT - 8649 Damage!",
-      "link": "https://www.youtube.com/shorts/PcMspkS2fMY",
-      "videoId": "PcMspkS2fMY",
-      "published": "2026-11-13T12:20:13+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/PcMspkS2fMY/hqdefault.jpg"
     }
   ]
 }
