@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-22T14:55:14.605025+00:00",
+  "updatedAt": "2026-11-22T21:03:10.481130+00:00",
   "videos": [
+    {
+      "title": "Shugo WOT - 10945 Damage!",
+      "link": "https://www.youtube.com/shorts/5hSo2RmRv40",
+      "videoId": "5hSo2RmRv40",
+      "published": "2026-11-22T15:51:37+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/5hSo2RmRv40/hqdefault.jpg"
+    },
     {
       "title": "Tortoise in Airfield WOT - 9.1K Damage!",
       "link": "https://www.youtube.com/watch?v=9Ivc5qngDSQ",
@@ -77,13 +84,6 @@
       "videoId": "77VFG61s5v8",
       "published": "2026-11-15T15:48:37+00:00",
       "thumbnail": "https://i.ytimg.com/vi/77VFG61s5v8/hqdefault.jpg"
-    },
-    {
-      "title": "FV4005 Stage II WOT - 10722 Damage!",
-      "link": "https://www.youtube.com/shorts/2flbJ8apruE",
-      "videoId": "2flbJ8apruE",
-      "published": "2026-11-15T10:43:03+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/2flbJ8apruE/hqdefault.jpg"
     }
   ]
 }
