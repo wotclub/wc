@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-24T06:02:03.630721+00:00",
+  "updatedAt": "2026-11-24T17:44:06.037976+00:00",
   "videos": [
+    {
+      "title": "KV 2 WOT - 6154 Damage!",
+      "link": "https://www.youtube.com/shorts/L--NPMaPU8w",
+      "videoId": "L--NPMaPU8w",
+      "published": "2026-11-24T16:57:03+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/L--NPMaPU8w/hqdefault.jpg"
+    },
     {
       "title": "Fauteur in Abbey WOT - 11.2K Damage!",
       "link": "https://www.youtube.com/watch?v=BgU_BlyYPMc",
@@ -77,13 +84,6 @@
       "videoId": "rJxATmPVln4",
       "published": "2026-11-17T16:53:47+00:00",
       "thumbnail": "https://i.ytimg.com/vi/rJxATmPVln4/hqdefault.jpg"
-    },
-    {
-      "title": "Badger in Prokhorovka WOT - 10.4K Damage!",
-      "link": "https://www.youtube.com/watch?v=iBa_Gg96-Q4",
-      "videoId": "iBa_Gg96-Q4",
-      "published": "2026-11-16T13:32:15+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/iBa_Gg96-Q4/hqdefault.jpg"
     }
   ]
 }
