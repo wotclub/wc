@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-11-25T10:30:05.933066+00:00",
+  "updatedAt": "2026-11-25T20:12:04.589595+00:00",
   "videos": [
+    {
+      "title": "Miel in Mountain Pass WOT - 8.1K Damage!",
+      "link": "https://www.youtube.com/watch?v=4css_mUJpMg",
+      "videoId": "4css_mUJpMg",
+      "published": "2026-11-25T17:36:37+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/4css_mUJpMg/hqdefault.jpg"
+    },
+    {
+      "title": "Foch B WOT - 9377 Damage!",
+      "link": "https://www.youtube.com/shorts/C6mHpyKjfYY",
+      "videoId": "C6mHpyKjfYY",
+      "published": "2026-11-25T15:29:19+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/C6mHpyKjfYY/hqdefault.jpg"
+    },
     {
       "title": "EBR 105 in Ensk Region WOT - 8.5K Damage!",
       "link": "https://www.youtube.com/watch?v=5djiuIQ5CsE",
@@ -70,20 +84,6 @@
       "videoId": "eO7x4_kgI88",
       "published": "2026-11-19T14:53:39+00:00",
       "thumbnail": "https://i.ytimg.com/vi/eO7x4_kgI88/hqdefault.jpg"
-    },
-    {
-      "title": "Type 5 Heavy in Fjords WOT - 10,7K Damage!",
-      "link": "https://www.youtube.com/watch?v=N0EhX8Lvqrg",
-      "videoId": "N0EhX8Lvqrg",
-      "published": "2026-11-18T19:54:12+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/N0EhX8Lvqrg/hqdefault.jpg"
-    },
-    {
-      "title": "Black Rock in Fjords WOT - 12.2K Damage!",
-      "link": "https://www.youtube.com/watch?v=yflbzs8L_6E",
-      "videoId": "yflbzs8L_6E",
-      "published": "2026-11-17T17:40:51+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/yflbzs8L_6E/hqdefault.jpg"
     }
   ]
 }
