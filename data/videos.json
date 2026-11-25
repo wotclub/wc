@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-24T17:44:06.037976+00:00",
+  "updatedAt": "2026-11-25T01:37:01.167266+00:00",
   "videos": [
+    {
+      "title": "EBR 105 in Ensk Region WOT - 8.5K Damage!",
+      "link": "https://www.youtube.com/watch?v=5djiuIQ5CsE",
+      "videoId": "5djiuIQ5CsE",
+      "published": "2026-11-24T19:51:52+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/5djiuIQ5CsE/hqdefault.jpg"
+    },
     {
       "title": "KV 2 WOT - 6154 Damage!",
       "link": "https://www.youtube.com/shorts/L--NPMaPU8w",
@@ -77,13 +84,6 @@
       "videoId": "yflbzs8L_6E",
       "published": "2026-11-17T17:40:51+00:00",
       "thumbnail": "https://i.ytimg.com/vi/yflbzs8L_6E/hqdefault.jpg"
-    },
-    {
-      "title": "FV4005 Stage II WOT - 9220 Damage!",
-      "link": "https://www.youtube.com/shorts/rJxATmPVln4",
-      "videoId": "rJxATmPVln4",
-      "published": "2026-11-17T16:53:47+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/rJxATmPVln4/hqdefault.jpg"
     }
   ]
 }
