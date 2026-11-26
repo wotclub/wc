@@ -1,6 +1,20 @@
 {
-  "updatedAt": "2026-11-26T12:32:33.281954+00:00",
+  "updatedAt": "2026-11-26T21:56:24.894344+00:00",
   "videos": [
+    {
+      "title": "Contriver in Redshire WOT - 10.8K Damage!",
+      "link": "https://www.youtube.com/watch?v=yWMbyAbXmhI",
+      "videoId": "yWMbyAbXmhI",
+      "published": "2026-11-26T16:08:12+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/yWMbyAbXmhI/hqdefault.jpg"
+    },
+    {
+      "title": "FV4005 WOT - 11782 Damage!",
+      "link": "https://www.youtube.com/shorts/bwpRxZ1l86M",
+      "videoId": "bwpRxZ1l86M",
+      "published": "2026-11-26T15:27:15+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/bwpRxZ1l86M/hqdefault.jpg"
+    },
     {
       "title": "Hirschkäfer in Live Oaks WOT - 10K Damage!",
       "link": "https://www.youtube.com/watch?v=YJfwHF9fL2E",
@@ -70,20 +84,6 @@
       "videoId": "wyLPG0weMNw",
       "published": "2026-11-20T10:43:33+00:00",
       "thumbnail": "https://i.ytimg.com/vi/wyLPG0weMNw/hqdefault.jpg"
-    },
-    {
-      "title": "T110E4 WOT - 12426 Damage!",
-      "link": "https://www.youtube.com/shorts/dWMg5avXzqw",
-      "videoId": "dWMg5avXzqw",
-      "published": "2026-11-20T09:46:30+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/dWMg5avXzqw/hqdefault.jpg"
-    },
-    {
-      "title": "BZT 70 in Westfield WOT - 11.6K Damage!",
-      "link": "https://www.youtube.com/watch?v=UYafshq6h1M",
-      "videoId": "UYafshq6h1M",
-      "published": "2026-11-19T21:26:41+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/UYafshq6h1M/hqdefault.jpg"
     }
   ]
 }
