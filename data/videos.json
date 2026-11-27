@@ -1,6 +1,13 @@
 {
-  "updatedAt": "2026-11-27T04:15:13.412632+00:00",
+  "updatedAt": "2026-11-27T13:55:45.285179+00:00",
   "videos": [
+    {
+      "title": "Vz 55 WOT - 9352 Damage!",
+      "link": "https://www.youtube.com/shorts/dIAevQXymyc",
+      "videoId": "dIAevQXymyc",
+      "published": "2026-11-27T13:17:50+00:00",
+      "thumbnail": "https://i.ytimg.com/vi/dIAevQXymyc/hqdefault.jpg"
+    },
     {
       "title": "Contriver in Redshire WOT - 10.8K Damage!",
       "link": "https://www.youtube.com/watch?v=yWMbyAbXmhI",
@@ -77,13 +84,6 @@
       "videoId": "9Ivc5qngDSQ",
       "published": "2026-11-22T13:23:28+00:00",
       "thumbnail": "https://i.ytimg.com/vi/9Ivc5qngDSQ/hqdefault.jpg"
-    },
-    {
-      "title": "Jagdpanzer E 100 in Berlin WOT - 10.4K Damage!",
-      "link": "https://www.youtube.com/watch?v=wyLPG0weMNw",
-      "videoId": "wyLPG0weMNw",
-      "published": "2026-11-20T10:43:33+00:00",
-      "thumbnail": "https://i.ytimg.com/vi/wyLPG0weMNw/hqdefault.jpg"
     }
   ]
 }
